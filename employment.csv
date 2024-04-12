@@ -1,0 +1,3829 @@
+"","industry","race_gender","employ_n","year"
+"1","Agriculture and related","TOTAL",961000,2020
+"2","Agriculture and related","TOTAL",58000,2020
+"3","Agriculture and related","TOTAL",13000,2020
+"4","Agriculture and related","TOTAL",94000,2020
+"5","Agriculture and related","TOTAL",12000,2020
+"6","Agriculture and related","TOTAL",96000,2020
+"7","Agriculture and related","TOTAL",931000,2020
+"8","Agriculture and related","TOTAL",10000,2020
+"9","Agriculture and related","TOTAL",33000,2020
+"10","Agriculture and related","TOTAL",42000,2020
+"11","Agriculture and related","TOTAL",99000,2020
+"12","Mining, quarrying, and oil and gas extraction","TOTAL",146000,2020
+"13","Mining, quarrying, and oil and gas extraction","TOTAL",104000,2020
+"14","Mining, quarrying, and oil and gas extraction","TOTAL",1000,2020
+"15","Mining, quarrying, and oil and gas extraction","TOTAL",6000,2020
+"16","Mining, quarrying, and oil and gas extraction","TOTAL",11000,2020
+"17","Mining, quarrying, and oil and gas extraction","TOTAL",38000,2020
+"18","Mining, quarrying, and oil and gas extraction","TOTAL",0,2020
+"19","Mining, quarrying, and oil and gas extraction","TOTAL",208000,2020
+"20","Mining, quarrying, and oil and gas extraction","TOTAL",39000,2020
+"21","Mining, quarrying, and oil and gas extraction","TOTAL",57000,2020
+"22","Mining, quarrying, and oil and gas extraction","TOTAL",74000,2020
+"23","Construction","TOTAL",2210000,2020
+"24","Construction","TOTAL",337000,2020
+"25","Construction","TOTAL",14000,2020
+"26","Construction","TOTAL",46000,2020
+"27","Construction","TOTAL",145000,2020
+"28","Construction","TOTAL",545000,2020
+"29","Construction","TOTAL",6000,2020
+"30","Construction","TOTAL",6404000,2020
+"31","Construction","TOTAL",618000,2020
+"32","Construction","TOTAL",153000,2020
+"33","Construction","TOTAL",307000,2020
+"34","Manufacturing","TOTAL",2845000,2020
+"35","Manufacturing","TOTAL",2247000,2020
+"36","Manufacturing","TOTAL",34000,2020
+"37","Manufacturing","TOTAL",176000,2020
+"38","Manufacturing","TOTAL",631000,2020
+"39","Manufacturing","TOTAL",1148000,2020
+"40","Manufacturing","TOTAL",17000,2020
+"41","Manufacturing","TOTAL",301000,2020
+"42","Manufacturing","TOTAL",653000,2020
+"43","Manufacturing","TOTAL",5334000,2020
+"44","Manufacturing","TOTAL",1162000,2020
+"45","Durable goods","TOTAL",1767000,2020
+"46","Durable goods","TOTAL",1620000,2020
+"47","Durable goods","TOTAL",17000,2020
+"48","Durable goods","TOTAL",79000,2020
+"49","Durable goods","TOTAL",344000,2020
+"50","Durable goods","TOTAL",697000,2020
+"51","Durable goods","TOTAL",7000,2020
+"52","Durable goods","TOTAL",233000,2020
+"53","Durable goods","TOTAL",414000,2020
+"54","Durable goods","TOTAL",3322000,2020
+"55","Durable goods","TOTAL",629000,2020
+"56","Nondurable goods","TOTAL",1078000,2020
+"57","Nondurable goods","TOTAL",627000,2020
+"58","Nondurable goods","TOTAL",17000,2020
+"59","Nondurable goods","TOTAL",97000,2020
+"60","Nondurable goods","TOTAL",288000,2020
+"61","Nondurable goods","TOTAL",451000,2020
+"62","Nondurable goods","TOTAL",11000,2020
+"63","Nondurable goods","TOTAL",68000,2020
+"64","Nondurable goods","TOTAL",239000,2020
+"65","Nondurable goods","TOTAL",2012000,2020
+"66","Nondurable goods","TOTAL",533000,2020
+"67","Wholesale and retail trade","TOTAL",1607000,2020
+"68","Wholesale and retail trade","TOTAL",1214000,2020
+"69","Wholesale and retail trade","TOTAL",68000,2020
+"70","Wholesale and retail trade","TOTAL",611000,2020
+"71","Wholesale and retail trade","TOTAL",8769000,2020
+"72","Wholesale and retail trade","TOTAL",1971000,2020
+"73","Wholesale and retail trade","TOTAL",45000,2020
+"74","Wholesale and retail trade","TOTAL",129000,2020
+"75","Wholesale and retail trade","TOTAL",656000,2020
+"76","Wholesale and retail trade","TOTAL",585000,2020
+"77","Wholesale and retail trade","TOTAL",3333000,2020
+"78","Wholesale trade","TOTAL",519000,2020
+"79","Wholesale trade","TOTAL",172000,2020
+"80","Wholesale trade","TOTAL",10000,2020
+"81","Wholesale trade","TOTAL",39000,2020
+"82","Wholesale trade","TOTAL",1165000,2020
+"83","Wholesale trade","TOTAL",445000,2020
+"84","Wholesale trade","TOTAL",28000,2020
+"85","Wholesale trade","TOTAL",24000,2020
+"86","Wholesale trade","TOTAL",144000,2020
+"87","Wholesale trade","TOTAL",130000,2020
+"88","Wholesale trade","TOTAL",704000,2020
+"89","Retail trade","TOTAL",1088000,2020
+"90","Retail trade","TOTAL",1041000,2020
+"91","Retail trade","TOTAL",58000,2020
+"92","Retail trade","TOTAL",573000,2020
+"93","Retail trade","TOTAL",7603000,2020
+"94","Retail trade","TOTAL",1526000,2020
+"95","Retail trade","TOTAL",17000,2020
+"96","Retail trade","TOTAL",105000,2020
+"97","Retail trade","TOTAL",513000,2020
+"98","Retail trade","TOTAL",456000,2020
+"99","Retail trade","TOTAL",2628000,2020
+"100","Transportation and utilities","TOTAL",1012000,2020
+"101","Transportation and utilities","TOTAL",402000,2020
+"102","Transportation and utilities","TOTAL",47000,2020
+"103","Transportation and utilities","TOTAL",1e+05,2020
+"104","Transportation and utilities","TOTAL",150000,2020
+"105","Transportation and utilities","TOTAL",1843000,2020
+"106","Transportation and utilities","TOTAL",3000,2020
+"107","Transportation and utilities","TOTAL",210000,2020
+"108","Transportation and utilities","TOTAL",515000,2020
+"109","Transportation and utilities","TOTAL",352000,2020
+"110","Transportation and utilities","TOTAL",3917000,2020
+"111","Information","TOTAL",651000,2020
+"112","Information","TOTAL",1095000,2020
+"113","Information","TOTAL",6000,2020
+"114","Information","TOTAL",38000,2020
+"115","Information","TOTAL",2e+05,2020
+"116","Information","TOTAL",329000,2020
+"117","Information","TOTAL",0,2020
+"118","Information","TOTAL",12000,2020
+"119","Information","TOTAL",219000,2020
+"120","Information","TOTAL",23000,2020
+"121","Information","TOTAL",23000,2020
+"122","Financial activities","TOTAL",4729000,2020
+"123","Financial activities","TOTAL",1081000,2020
+"124","Financial activities","TOTAL",56000,2020
+"125","Financial activities","TOTAL",222000,2020
+"126","Financial activities","TOTAL",2283000,2020
+"127","Financial activities","TOTAL",1932000,2020
+"128","Financial activities","TOTAL",1000,2020
+"129","Financial activities","TOTAL",48000,2020
+"130","Financial activities","TOTAL",164000,2020
+"131","Financial activities","TOTAL",45000,2020
+"132","Financial activities","TOTAL",83000,2020
+"133","Professional and business services","TOTAL",5064000,2020
+"134","Professional and business services","TOTAL",6601000,2020
+"135","Professional and business services","TOTAL",540000,2020
+"136","Professional and business services","TOTAL",2757000,2020
+"137","Professional and business services","TOTAL",583000,2020
+"138","Professional and business services","TOTAL",2006000,2020
+"139","Professional and business services","TOTAL",12000,2020
+"140","Professional and business services","TOTAL",153000,2020
+"141","Professional and business services","TOTAL",286000,2020
+"142","Professional and business services","TOTAL",269000,2020
+"143","Professional and business services","TOTAL",545000,2020
+"144","Education and health services","TOTAL",3693000,2020
+"145","Education and health services","TOTAL",19540000,2020
+"146","Education and health services","TOTAL",179000,2020
+"147","Education and health services","TOTAL",6495000,2020
+"148","Education and health services","TOTAL",138000,2020
+"149","Education and health services","TOTAL",3258000,2020
+"150","Education and health services","TOTAL",5000,2020
+"151","Education and health services","TOTAL",83000,2020
+"152","Education and health services","TOTAL",197000,2020
+"153","Education and health services","TOTAL",164000,2020
+"154","Education and health services","TOTAL",352000,2020
+"155","Leisure and hospitality","TOTAL",2009000,2020
+"156","Leisure and hospitality","TOTAL",795000,2020
+"157","Leisure and hospitality","TOTAL",149000,2020
+"158","Leisure and hospitality","TOTAL",6482000,2020
+"159","Leisure and hospitality","TOTAL",860000,2020
+"160","Leisure and hospitality","TOTAL",604000,2020
+"161","Leisure and hospitality","TOTAL",8000,2020
+"162","Leisure and hospitality","TOTAL",35000,2020
+"163","Leisure and hospitality","TOTAL",92000,2020
+"164","Leisure and hospitality","TOTAL",106000,2020
+"165","Leisure and hospitality","TOTAL",340000,2020
+"166","Other services","TOTAL",763000,2020
+"167","Other services","TOTAL",994000,2020
+"168","Other services","TOTAL",19000,2020
+"169","Other services","TOTAL",2406000,2020
+"170","Other services","TOTAL",348000,2020
+"171","Other services","TOTAL",540000,2020
+"172","Other services","TOTAL",3000,2020
+"173","Other services","TOTAL",24000,2020
+"174","Other services","TOTAL",987000,2020
+"175","Other services","TOTAL",380000,2020
+"176","Other services","TOTAL",280000,2020
+"177","Other services, except private households","TOTAL",755000,2020
+"178","Other services, except private households","TOTAL",987000,2020
+"179","Other services, except private households","TOTAL",19000,2020
+"180","Other services, except private households","TOTAL",1795000,2020
+"181","Other services, except private households","TOTAL",348000,2020
+"182","Other services, except private households","TOTAL",531000,2020
+"183","Other services, except private households","TOTAL",3000,2020
+"184","Other services, except private households","TOTAL",24000,2020
+"185","Other services, except private households","TOTAL",986000,2020
+"186","Other services, except private households","TOTAL",370000,2020
+"187","Other services, except private households","TOTAL",270000,2020
+"188","Private households","TOTAL",9000,2020
+"189","Private households","TOTAL",7000,2020
+"190","Private households","TOTAL",0,2020
+"191","Private households","TOTAL",611000,2020
+"192","Private households","TOTAL",0,2020
+"193","Private households","TOTAL",8000,2020
+"194","Private households","TOTAL",0,2020
+"195","Private households","TOTAL",0,2020
+"196","Private households","TOTAL",0,2020
+"197","Private households","TOTAL",10000,2020
+"198","Private households","TOTAL",10000,2020
+"199","Public administration","TOTAL",1451000,2020
+"200","Public administration","TOTAL",2035000,2020
+"201","Public administration","TOTAL",1897000,2020
+"202","Public administration","TOTAL",395000,2020
+"203","Public administration","TOTAL",39000,2020
+"204","Public administration","TOTAL",1248000,2020
+"205","Public administration","TOTAL",13000,2020
+"206","Public administration","TOTAL",92000,2020
+"207","Public administration","TOTAL",143000,2020
+"208","Public administration","TOTAL",77000,2020
+"209","Public administration","TOTAL",111000,2020
+"210","Agriculture and related","Men",707000,2020
+"211","Agriculture and related","Men",36000,2020
+"212","Agriculture and related","Men",11000,2020
+"213","Agriculture and related","Men",52000,2020
+"214","Agriculture and related","Men",6000,2020
+"215","Agriculture and related","Men",16000,2020
+"216","Agriculture and related","Men",714000,2020
+"217","Agriculture and related","Men",10000,2020
+"218","Agriculture and related","Men",31000,2020
+"219","Agriculture and related","Men",36000,2020
+"220","Agriculture and related","Men",80000,2020
+"221","Mining, quarrying, and oil and gas extraction","Men",104000,2020
+"222","Mining, quarrying, and oil and gas extraction","Men",90000,2020
+"223","Mining, quarrying, and oil and gas extraction","Men",1000,2020
+"224","Mining, quarrying, and oil and gas extraction","Men",4000,2020
+"225","Mining, quarrying, and oil and gas extraction","Men",9000,2020
+"226","Mining, quarrying, and oil and gas extraction","Men",11000,2020
+"227","Mining, quarrying, and oil and gas extraction","Men",0,2020
+"228","Mining, quarrying, and oil and gas extraction","Men",2e+05,2020
+"229","Mining, quarrying, and oil and gas extraction","Men",38000,2020
+"230","Mining, quarrying, and oil and gas extraction","Men",56000,2020
+"231","Mining, quarrying, and oil and gas extraction","Men",72000,2020
+"232","Construction","Men",1894000,2020
+"233","Construction","Men",256000,2020
+"234","Construction","Men",10000,2020
+"235","Construction","Men",32000,2020
+"236","Construction","Men",112000,2020
+"237","Construction","Men",101000,2020
+"238","Construction","Men",6000,2020
+"239","Construction","Men",6157000,2020
+"240","Construction","Men",604000,2020
+"241","Construction","Men",147000,2020
+"242","Construction","Men",294000,2020
+"243","Manufacturing","Men",1831000,2020
+"244","Manufacturing","Men",1722000,2020
+"245","Manufacturing","Men",26000,2020
+"246","Manufacturing","Men",111000,2020
+"247","Manufacturing","Men",402000,2020
+"248","Manufacturing","Men",466000,2020
+"249","Manufacturing","Men",15000,2020
+"250","Manufacturing","Men",287000,2020
+"251","Manufacturing","Men",607000,2020
+"252","Manufacturing","Men",3857000,2020
+"253","Manufacturing","Men",932000,2020
+"254","Durable goods","Men",1197000,2020
+"255","Durable goods","Men",1305000,2020
+"256","Durable goods","Men",12000,2020
+"257","Durable goods","Men",50000,2020
+"258","Durable goods","Men",257000,2020
+"259","Durable goods","Men",290000,2020
+"260","Durable goods","Men",7000,2020
+"261","Durable goods","Men",221000,2020
+"262","Durable goods","Men",383000,2020
+"263","Durable goods","Men",2562000,2020
+"264","Durable goods","Men",530000,2020
+"265","Nondurable goods","Men",634000,2020
+"266","Nondurable goods","Men",417000,2020
+"267","Nondurable goods","Men",13000,2020
+"268","Nondurable goods","Men",61000,2020
+"269","Nondurable goods","Men",145000,2020
+"270","Nondurable goods","Men",176000,2020
+"271","Nondurable goods","Men",8000,2020
+"272","Nondurable goods","Men",66000,2020
+"273","Nondurable goods","Men",224000,2020
+"274","Nondurable goods","Men",1295000,2020
+"275","Nondurable goods","Men",402000,2020
+"276","Wholesale and retail trade","Men",940000,2020
+"277","Wholesale and retail trade","Men",559000,2020
+"278","Wholesale and retail trade","Men",49000,2020
+"279","Wholesale and retail trade","Men",265000,2020
+"280","Wholesale and retail trade","Men",4491000,2020
+"281","Wholesale and retail trade","Men",680000,2020
+"282","Wholesale and retail trade","Men",27000,2020
+"283","Wholesale and retail trade","Men",124000,2020
+"284","Wholesale and retail trade","Men",640000,2020
+"285","Wholesale and retail trade","Men",373000,2020
+"286","Wholesale and retail trade","Men",2488000,2020
+"287","Wholesale trade","Men",340000,2020
+"288","Wholesale trade","Men",106000,2020
+"289","Wholesale trade","Men",7000,2020
+"290","Wholesale trade","Men",28000,2020
+"291","Wholesale trade","Men",855000,2020
+"292","Wholesale trade","Men",159000,2020
+"293","Wholesale trade","Men",16000,2020
+"294","Wholesale trade","Men",24000,2020
+"295","Wholesale trade","Men",140000,2020
+"296","Wholesale trade","Men",86000,2020
+"297","Wholesale trade","Men",597000,2020
+"298","Retail trade","Men",6e+05,2020
+"299","Retail trade","Men",453000,2020
+"300","Retail trade","Men",42000,2020
+"301","Retail trade","Men",237000,2020
+"302","Retail trade","Men",3636000,2020
+"303","Retail trade","Men",521000,2020
+"304","Retail trade","Men",10000,2020
+"305","Retail trade","Men",1e+05,2020
+"306","Retail trade","Men",5e+05,2020
+"307","Retail trade","Men",287000,2020
+"308","Retail trade","Men",1891000,2020
+"309","Transportation and utilities","Men",708000,2020
+"310","Transportation and utilities","Men",303000,2020
+"311","Transportation and utilities","Men",34000,2020
+"312","Transportation and utilities","Men",62000,2020
+"313","Transportation and utilities","Men",81000,2020
+"314","Transportation and utilities","Men",1023000,2020
+"315","Transportation and utilities","Men",2000,2020
+"316","Transportation and utilities","Men",205000,2020
+"317","Transportation and utilities","Men",502000,2020
+"318","Transportation and utilities","Men",301000,2020
+"319","Transportation and utilities","Men",3271000,2020
+"320","Information","Men",361000,2020
+"321","Information","Men",690000,2020
+"322","Information","Men",3000,2020
+"323","Information","Men",22000,2020
+"324","Information","Men",118000,2020
+"325","Information","Men",114000,2020
+"326","Information","Men",0,2020
+"327","Information","Men",12000,2020
+"328","Information","Men",194000,2020
+"329","Information","Men",15000,2020
+"330","Information","Men",16000,2020
+"331","Financial activities","Men",2454000,2020
+"332","Financial activities","Men",621000,2020
+"333","Financial activities","Men",36000,2020
+"334","Financial activities","Men",146000,2020
+"335","Financial activities","Men",1140000,2020
+"336","Financial activities","Men",430000,2020
+"337","Financial activities","Men",1000,2020
+"338","Financial activities","Men",46000,2020
+"339","Financial activities","Men",151000,2020
+"340","Financial activities","Men",25000,2020
+"341","Financial activities","Men",72000,2020
+"342","Professional and business services","Men",2788000,2020
+"343","Professional and business services","Men",4224000,2020
+"344","Professional and business services","Men",394000,2020
+"345","Professional and business services","Men",1728000,2020
+"346","Professional and business services","Men",329000,2020
+"347","Professional and business services","Men",509000,2020
+"348","Professional and business services","Men",10000,2020
+"349","Professional and business services","Men",142000,2020
+"350","Professional and business services","Men",274000,2020
+"351","Professional and business services","Men",181000,2020
+"352","Professional and business services","Men",451000,2020
+"353","Education and health services","Men",1187000,2020
+"354","Education and health services","Men",5243000,2020
+"355","Education and health services","Men",120000,2020
+"356","Education and health services","Men",1236000,2020
+"357","Education and health services","Men",33000,2020
+"358","Education and health services","Men",340000,2020
+"359","Education and health services","Men",4000,2020
+"360","Education and health services","Men",75000,2020
+"361","Education and health services","Men",181000,2020
+"362","Education and health services","Men",65000,2020
+"363","Education and health services","Men",187000,2020
+"364","Leisure and hospitality","Men",1053000,2020
+"365","Leisure and hospitality","Men",442000,2020
+"366","Leisure and hospitality","Men",104000,2020
+"367","Leisure and hospitality","Men",3209000,2020
+"368","Leisure and hospitality","Men",268000,2020
+"369","Leisure and hospitality","Men",166000,2020
+"370","Leisure and hospitality","Men",7000,2020
+"371","Leisure and hospitality","Men",34000,2020
+"372","Leisure and hospitality","Men",87000,2020
+"373","Leisure and hospitality","Men",54000,2020
+"374","Leisure and hospitality","Men",271000,2020
+"375","Other services","Men",321000,2020
+"376","Other services","Men",553000,2020
+"377","Other services","Men",16000,2020
+"378","Other services","Men",476000,2020
+"379","Other services","Men",260000,2020
+"380","Other services","Men",91000,2020
+"381","Other services","Men",0,2020
+"382","Other services","Men",22000,2020
+"383","Other services","Men",964000,2020
+"384","Other services","Men",266000,2020
+"385","Other services","Men",230000,2020
+"386","Other services, except private households","Men",318000,2020
+"387","Other services, except private households","Men",549000,2020
+"388","Other services, except private households","Men",16000,2020
+"389","Other services, except private households","Men",424000,2020
+"390","Other services, except private households","Men",260000,2020
+"391","Other services, except private households","Men",91000,2020
+"392","Other services, except private households","Men",0,2020
+"393","Other services, except private households","Men",22000,2020
+"394","Other services, except private households","Men",963000,2020
+"395","Other services, except private households","Men",261000,2020
+"396","Other services, except private households","Men",221000,2020
+"397","Private households","Men",3000,2020
+"398","Private households","Men",4000,2020
+"399","Private households","Men",0,2020
+"400","Private households","Men",52000,2020
+"401","Private households","Men",0,2020
+"402","Private households","Men",0,2020
+"403","Private households","Men",0,2020
+"404","Private households","Men",0,2020
+"405","Private households","Men",0,2020
+"406","Private households","Men",5000,2020
+"407","Private households","Men",8000,2020
+"408","Public administration","Men",681000,2020
+"409","Public administration","Men",968000,2020
+"410","Public administration","Men",1506000,2020
+"411","Public administration","Men",166000,2020
+"412","Public administration","Men",13000,2020
+"413","Public administration","Men",297000,2020
+"414","Public administration","Men",8000,2020
+"415","Public administration","Men",87000,2020
+"416","Public administration","Men",140000,2020
+"417","Public administration","Men",67000,2020
+"418","Public administration","Men",87000,2020
+"419","Agriculture and related","Women",253000,2020
+"420","Agriculture and related","Women",22000,2020
+"421","Agriculture and related","Women",2000,2020
+"422","Agriculture and related","Women",42000,2020
+"423","Agriculture and related","Women",6000,2020
+"424","Agriculture and related","Women",79000,2020
+"425","Agriculture and related","Women",217000,2020
+"426","Agriculture and related","Women",0,2020
+"427","Agriculture and related","Women",2000,2020
+"428","Agriculture and related","Women",7000,2020
+"429","Agriculture and related","Women",20000,2020
+"430","Mining, quarrying, and oil and gas extraction","Women",43000,2020
+"431","Mining, quarrying, and oil and gas extraction","Women",14000,2020
+"432","Mining, quarrying, and oil and gas extraction","Women",0,2020
+"433","Mining, quarrying, and oil and gas extraction","Women",2000,2020
+"434","Mining, quarrying, and oil and gas extraction","Women",1000,2020
+"435","Mining, quarrying, and oil and gas extraction","Women",28000,2020
+"436","Mining, quarrying, and oil and gas extraction","Women",0,2020
+"437","Mining, quarrying, and oil and gas extraction","Women",8000,2020
+"438","Mining, quarrying, and oil and gas extraction","Women",1000,2020
+"439","Mining, quarrying, and oil and gas extraction","Women",1000,2020
+"440","Mining, quarrying, and oil and gas extraction","Women",2000,2020
+"441","Construction","Women",316000,2020
+"442","Construction","Women",82000,2020
+"443","Construction","Women",4000,2020
+"444","Construction","Women",14000,2020
+"445","Construction","Women",32000,2020
+"446","Construction","Women",444000,2020
+"447","Construction","Women",0,2020
+"448","Construction","Women",247000,2020
+"449","Construction","Women",14000,2020
+"450","Construction","Women",7000,2020
+"451","Construction","Women",14000,2020
+"452","Manufacturing","Women",1014000,2020
+"453","Manufacturing","Women",525000,2020
+"454","Manufacturing","Women",9000,2020
+"455","Manufacturing","Women",66000,2020
+"456","Manufacturing","Women",230000,2020
+"457","Manufacturing","Women",682000,2020
+"458","Manufacturing","Women",3000,2020
+"459","Manufacturing","Women",14000,2020
+"460","Manufacturing","Women",46000,2020
+"461","Manufacturing","Women",1477000,2020
+"462","Manufacturing","Women",230000,2020
+"463","Durable goods","Women",570000,2020
+"464","Durable goods","Women",315000,2020
+"465","Durable goods","Women",5000,2020
+"466","Durable goods","Women",29000,2020
+"467","Durable goods","Women",87000,2020
+"468","Durable goods","Women",406000,2020
+"469","Durable goods","Women",0,2020
+"470","Durable goods","Women",12000,2020
+"471","Durable goods","Women",32000,2020
+"472","Durable goods","Women",760000,2020
+"473","Durable goods","Women",99000,2020
+"474","Nondurable goods","Women",445000,2020
+"475","Nondurable goods","Women",210000,2020
+"476","Nondurable goods","Women",4000,2020
+"477","Nondurable goods","Women",37000,2020
+"478","Nondurable goods","Women",143000,2020
+"479","Nondurable goods","Women",276000,2020
+"480","Nondurable goods","Women",3000,2020
+"481","Nondurable goods","Women",2000,2020
+"482","Nondurable goods","Women",14000,2020
+"483","Nondurable goods","Women",717000,2020
+"484","Nondurable goods","Women",131000,2020
+"485","Wholesale and retail trade","Women",668000,2020
+"486","Wholesale and retail trade","Women",655000,2020
+"487","Wholesale and retail trade","Women",20000,2020
+"488","Wholesale and retail trade","Women",346000,2020
+"489","Wholesale and retail trade","Women",4278000,2020
+"490","Wholesale and retail trade","Women",1291000,2020
+"491","Wholesale and retail trade","Women",18000,2020
+"492","Wholesale and retail trade","Women",5000,2020
+"493","Wholesale and retail trade","Women",17000,2020
+"494","Wholesale and retail trade","Women",212000,2020
+"495","Wholesale and retail trade","Women",845000,2020
+"496","Wholesale trade","Women",179000,2020
+"497","Wholesale trade","Women",67000,2020
+"498","Wholesale trade","Women",3000,2020
+"499","Wholesale trade","Women",10000,2020
+"500","Wholesale trade","Women",310000,2020
+"501","Wholesale trade","Women",286000,2020
+"502","Wholesale trade","Women",11000,2020
+"503","Wholesale trade","Women",0,2020
+"504","Wholesale trade","Women",4000,2020
+"505","Wholesale trade","Women",44000,2020
+"506","Wholesale trade","Women",107000,2020
+"507","Retail trade","Women",488000,2020
+"508","Retail trade","Women",588000,2020
+"509","Retail trade","Women",16000,2020
+"510","Retail trade","Women",336000,2020
+"511","Retail trade","Women",3968000,2020
+"512","Retail trade","Women",1005000,2020
+"513","Retail trade","Women",7000,2020
+"514","Retail trade","Women",5000,2020
+"515","Retail trade","Women",13000,2020
+"516","Retail trade","Women",168000,2020
+"517","Retail trade","Women",738000,2020
+"518","Transportation and utilities","Women",304000,2020
+"519","Transportation and utilities","Women",99000,2020
+"520","Transportation and utilities","Women",13000,2020
+"521","Transportation and utilities","Women",38000,2020
+"522","Transportation and utilities","Women",69000,2020
+"523","Transportation and utilities","Women",819000,2020
+"524","Transportation and utilities","Women",1000,2020
+"525","Transportation and utilities","Women",5000,2020
+"526","Transportation and utilities","Women",13000,2020
+"527","Transportation and utilities","Women",51000,2020
+"528","Transportation and utilities","Women",646000,2020
+"529","Information","Women",290000,2020
+"530","Information","Women",405000,2020
+"531","Information","Women",3000,2020
+"532","Information","Women",15000,2020
+"533","Information","Women",82000,2020
+"534","Information","Women",215000,2020
+"535","Information","Women",0,2020
+"536","Information","Women",0,2020
+"537","Information","Women",25000,2020
+"538","Information","Women",8000,2020
+"539","Information","Women",7000,2020
+"540","Financial activities","Women",2276000,2020
+"541","Financial activities","Women",460000,2020
+"542","Financial activities","Women",20000,2020
+"543","Financial activities","Women",77000,2020
+"544","Financial activities","Women",1143000,2020
+"545","Financial activities","Women",1502000,2020
+"546","Financial activities","Women",0,2020
+"547","Financial activities","Women",2000,2020
+"548","Financial activities","Women",14000,2020
+"549","Financial activities","Women",20000,2020
+"550","Financial activities","Women",10000,2020
+"551","Professional and business services","Women",2276000,2020
+"552","Professional and business services","Women",2377000,2020
+"553","Professional and business services","Women",146000,2020
+"554","Professional and business services","Women",1029000,2020
+"555","Professional and business services","Women",255000,2020
+"556","Professional and business services","Women",1497000,2020
+"557","Professional and business services","Women",2000,2020
+"558","Professional and business services","Women",10000,2020
+"559","Professional and business services","Women",13000,2020
+"560","Professional and business services","Women",88000,2020
+"561","Professional and business services","Women",94000,2020
+"562","Education and health services","Women",2506000,2020
+"563","Education and health services","Women",14297000,2020
+"564","Education and health services","Women",58000,2020
+"565","Education and health services","Women",5259000,2020
+"566","Education and health services","Women",105000,2020
+"567","Education and health services","Women",2918000,2020
+"568","Education and health services","Women",1000,2020
+"569","Education and health services","Women",8000,2020
+"570","Education and health services","Women",16000,2020
+"571","Education and health services","Women",99000,2020
+"572","Education and health services","Women",165000,2020
+"573","Leisure and hospitality","Women",957000,2020
+"574","Leisure and hospitality","Women",353000,2020
+"575","Leisure and hospitality","Women",46000,2020
+"576","Leisure and hospitality","Women",3274000,2020
+"577","Leisure and hospitality","Women",592000,2020
+"578","Leisure and hospitality","Women",437000,2020
+"579","Leisure and hospitality","Women",1000,2020
+"580","Leisure and hospitality","Women",1000,2020
+"581","Leisure and hospitality","Women",5000,2020
+"582","Leisure and hospitality","Women",52000,2020
+"583","Leisure and hospitality","Women",69000,2020
+"584","Other services","Women",442000,2020
+"585","Other services","Women",441000,2020
+"586","Other services","Women",3000,2020
+"587","Other services","Women",1930000,2020
+"588","Other services","Women",88000,2020
+"589","Other services","Women",449000,2020
+"590","Other services","Women",3000,2020
+"591","Other services","Women",2000,2020
+"592","Other services","Women",23000,2020
+"593","Other services","Women",114000,2020
+"594","Other services","Women",50000,2020
+"595","Other services, except private households","Women",437000,2020
+"596","Other services, except private households","Women",438000,2020
+"597","Other services, except private households","Women",3000,2020
+"598","Other services, except private households","Women",1371000,2020
+"599","Other services, except private households","Women",88000,2020
+"600","Other services, except private households","Women",441000,2020
+"601","Other services, except private households","Women",3000,2020
+"602","Other services, except private households","Women",2000,2020
+"603","Other services, except private households","Women",23000,2020
+"604","Other services, except private households","Women",110000,2020
+"605","Other services, except private households","Women",48000,2020
+"606","Private households","Women",5000,2020
+"607","Private households","Women",3000,2020
+"608","Private households","Women",0,2020
+"609","Private households","Women",559000,2020
+"610","Private households","Women",0,2020
+"611","Private households","Women",8000,2020
+"612","Private households","Women",0,2020
+"613","Private households","Women",0,2020
+"614","Private households","Women",0,2020
+"615","Private households","Women",4000,2020
+"616","Private households","Women",2000,2020
+"617","Public administration","Women",770000,2020
+"618","Public administration","Women",1066000,2020
+"619","Public administration","Women",391000,2020
+"620","Public administration","Women",229000,2020
+"621","Public administration","Women",26000,2020
+"622","Public administration","Women",951000,2020
+"623","Public administration","Women",5000,2020
+"624","Public administration","Women",5000,2020
+"625","Public administration","Women",3000,2020
+"626","Public administration","Women",10000,2020
+"627","Public administration","Women",24000,2020
+"628","Agriculture and related","TOTAL",1008000,2019
+"629","Agriculture and related","TOTAL",42000,2019
+"630","Agriculture and related","TOTAL",15000,2019
+"631","Agriculture and related","TOTAL",98000,2019
+"632","Agriculture and related","TOTAL",17000,2019
+"633","Agriculture and related","TOTAL",81000,2019
+"634","Agriculture and related","TOTAL",993000,2019
+"635","Agriculture and related","TOTAL",12000,2019
+"636","Agriculture and related","TOTAL",26000,2019
+"637","Agriculture and related","TOTAL",38000,2019
+"638","Agriculture and related","TOTAL",93000,2019
+"639","Mining, quarrying, and oil and gas extraction","TOTAL",155000,2019
+"640","Mining, quarrying, and oil and gas extraction","TOTAL",127000,2019
+"641","Mining, quarrying, and oil and gas extraction","TOTAL",2000,2019
+"642","Mining, quarrying, and oil and gas extraction","TOTAL",5000,2019
+"643","Mining, quarrying, and oil and gas extraction","TOTAL",11000,2019
+"644","Mining, quarrying, and oil and gas extraction","TOTAL",63000,2019
+"645","Mining, quarrying, and oil and gas extraction","TOTAL",0,2019
+"646","Mining, quarrying, and oil and gas extraction","TOTAL",212000,2019
+"647","Mining, quarrying, and oil and gas extraction","TOTAL",53000,2019
+"648","Mining, quarrying, and oil and gas extraction","TOTAL",40000,2019
+"649","Mining, quarrying, and oil and gas extraction","TOTAL",81000,2019
+"650","Construction","TOTAL",2311000,2019
+"651","Construction","TOTAL",289000,2019
+"652","Construction","TOTAL",24000,2019
+"653","Construction","TOTAL",37000,2019
+"654","Construction","TOTAL",118000,2019
+"655","Construction","TOTAL",529000,2019
+"656","Construction","TOTAL",4000,2019
+"657","Construction","TOTAL",7044000,2019
+"658","Construction","TOTAL",589000,2019
+"659","Construction","TOTAL",160000,2019
+"660","Construction","TOTAL",267000,2019
+"661","Manufacturing","TOTAL",2851000,2019
+"662","Manufacturing","TOTAL",2304000,2019
+"663","Manufacturing","TOTAL",30000,2019
+"664","Manufacturing","TOTAL",232000,2019
+"665","Manufacturing","TOTAL",608000,2019
+"666","Manufacturing","TOTAL",1275000,2019
+"667","Manufacturing","TOTAL",50000,2019
+"668","Manufacturing","TOTAL",3e+05,2019
+"669","Manufacturing","TOTAL",706000,2019
+"670","Manufacturing","TOTAL",6150000,2019
+"671","Manufacturing","TOTAL",1235000,2019
+"672","Durable goods","TOTAL",1757000,2019
+"673","Durable goods","TOTAL",1665000,2019
+"674","Durable goods","TOTAL",17000,2019
+"675","Durable goods","TOTAL",106000,2019
+"676","Durable goods","TOTAL",341000,2019
+"677","Durable goods","TOTAL",765000,2019
+"678","Durable goods","TOTAL",4000,2019
+"679","Durable goods","TOTAL",241000,2019
+"680","Durable goods","TOTAL",443000,2019
+"681","Durable goods","TOTAL",3955000,2019
+"682","Durable goods","TOTAL",676000,2019
+"683","Nondurable goods","TOTAL",1094000,2019
+"684","Nondurable goods","TOTAL",639000,2019
+"685","Nondurable goods","TOTAL",12000,2019
+"686","Nondurable goods","TOTAL",126000,2019
+"687","Nondurable goods","TOTAL",267000,2019
+"688","Nondurable goods","TOTAL",510000,2019
+"689","Nondurable goods","TOTAL",46000,2019
+"690","Nondurable goods","TOTAL",59000,2019
+"691","Nondurable goods","TOTAL",263000,2019
+"692","Nondurable goods","TOTAL",2196000,2019
+"693","Nondurable goods","TOTAL",559000,2019
+"694","Wholesale and retail trade","TOTAL",1455000,2019
+"695","Wholesale and retail trade","TOTAL",1156000,2019
+"696","Wholesale and retail trade","TOTAL",57000,2019
+"697","Wholesale and retail trade","TOTAL",658000,2019
+"698","Wholesale and retail trade","TOTAL",9759000,2019
+"699","Wholesale and retail trade","TOTAL",3096000,2019
+"700","Wholesale and retail trade","TOTAL",58000,2019
+"701","Wholesale and retail trade","TOTAL",98000,2019
+"702","Wholesale and retail trade","TOTAL",718000,2019
+"703","Wholesale and retail trade","TOTAL",566000,2019
+"704","Wholesale and retail trade","TOTAL",2121000,2019
+"705","Wholesale trade","TOTAL",518000,2019
+"706","Wholesale trade","TOTAL",170000,2019
+"707","Wholesale trade","TOTAL",7000,2019
+"708","Wholesale trade","TOTAL",46000,2019
+"709","Wholesale trade","TOTAL",1309000,2019
+"710","Wholesale trade","TOTAL",525000,2019
+"711","Wholesale trade","TOTAL",40000,2019
+"712","Wholesale trade","TOTAL",23000,2019
+"713","Wholesale trade","TOTAL",128000,2019
+"714","Wholesale trade","TOTAL",113000,2019
+"715","Wholesale trade","TOTAL",646000,2019
+"716","Retail trade","TOTAL",937000,2019
+"717","Retail trade","TOTAL",986000,2019
+"718","Retail trade","TOTAL",50000,2019
+"719","Retail trade","TOTAL",612000,2019
+"720","Retail trade","TOTAL",8450000,2019
+"721","Retail trade","TOTAL",2572000,2019
+"722","Retail trade","TOTAL",19000,2019
+"723","Retail trade","TOTAL",74000,2019
+"724","Retail trade","TOTAL",590000,2019
+"725","Retail trade","TOTAL",452000,2019
+"726","Retail trade","TOTAL",1475000,2019
+"727","Transportation and utilities","TOTAL",933000,2019
+"728","Transportation and utilities","TOTAL",410000,2019
+"729","Transportation and utilities","TOTAL",42000,2019
+"730","Transportation and utilities","TOTAL",142000,2019
+"731","Transportation and utilities","TOTAL",136000,2019
+"732","Transportation and utilities","TOTAL",1888000,2019
+"733","Transportation and utilities","TOTAL",7000,2019
+"734","Transportation and utilities","TOTAL",178000,2019
+"735","Transportation and utilities","TOTAL",518000,2019
+"736","Transportation and utilities","TOTAL",405000,2019
+"737","Transportation and utilities","TOTAL",4332000,2019
+"738","Information","TOTAL",566000,2019
+"739","Information","TOTAL",1123000,2019
+"740","Information","TOTAL",9000,2019
+"741","Information","TOTAL",76000,2019
+"742","Information","TOTAL",267000,2019
+"743","Information","TOTAL",375000,2019
+"744","Information","TOTAL",0,2019
+"745","Information","TOTAL",16000,2019
+"746","Information","TOTAL",254000,2019
+"747","Information","TOTAL",31000,2019
+"748","Information","TOTAL",46000,2019
+"749","Financial activities","TOTAL",4646000,2019
+"750","Financial activities","TOTAL",1042000,2019
+"751","Financial activities","TOTAL",58000,2019
+"752","Financial activities","TOTAL",277000,2019
+"753","Financial activities","TOTAL",2318000,2019
+"754","Financial activities","TOTAL",2048000,2019
+"755","Financial activities","TOTAL",0,2019
+"756","Financial activities","TOTAL",57000,2019
+"757","Financial activities","TOTAL",186000,2019
+"758","Financial activities","TOTAL",38000,2019
+"759","Financial activities","TOTAL",95000,2019
+"760","Professional and business services","TOTAL",5224000,2019
+"761","Professional and business services","TOTAL",6639000,2019
+"762","Professional and business services","TOTAL",606000,2019
+"763","Professional and business services","TOTAL",2867000,2019
+"764","Professional and business services","TOTAL",681000,2019
+"765","Professional and business services","TOTAL",2273000,2019
+"766","Professional and business services","TOTAL",12000,2019
+"767","Professional and business services","TOTAL",152000,2019
+"768","Professional and business services","TOTAL",269000,2019
+"769","Professional and business services","TOTAL",302000,2019
+"770","Professional and business services","TOTAL",582000,2019
+"771","Education and health services","TOTAL",3572000,2019
+"772","Education and health services","TOTAL",20263000,2019
+"773","Education and health services","TOTAL",164000,2019
+"774","Education and health services","TOTAL",7336000,2019
+"775","Education and health services","TOTAL",110000,2019
+"776","Education and health services","TOTAL",3548000,2019
+"777","Education and health services","TOTAL",5000,2019
+"778","Education and health services","TOTAL",87000,2019
+"779","Education and health services","TOTAL",213000,2019
+"780","Education and health services","TOTAL",172000,2019
+"781","Education and health services","TOTAL",424000,2019
+"782","Leisure and hospitality","TOTAL",2121000,2019
+"783","Leisure and hospitality","TOTAL",1016000,2019
+"784","Leisure and hospitality","TOTAL",206000,2019
+"785","Leisure and hospitality","TOTAL",8746000,2019
+"786","Leisure and hospitality","TOTAL",1123000,2019
+"787","Leisure and hospitality","TOTAL",770000,2019
+"788","Leisure and hospitality","TOTAL",6000,2019
+"789","Leisure and hospitality","TOTAL",42000,2019
+"790","Leisure and hospitality","TOTAL",113000,2019
+"791","Leisure and hospitality","TOTAL",130000,2019
+"792","Leisure and hospitality","TOTAL",369000,2019
+"793","Other services","TOTAL",739000,2019
+"794","Other services","TOTAL",977000,2019
+"795","Other services","TOTAL",14000,2019
+"796","Other services","TOTAL",3001000,2019
+"797","Other services","TOTAL",396000,2019
+"798","Other services","TOTAL",650000,2019
+"799","Other services","TOTAL",4000,2019
+"800","Other services","TOTAL",18000,2019
+"801","Other services","TOTAL",1061000,2019
+"802","Other services","TOTAL",459000,2019
+"803","Other services","TOTAL",298000,2019
+"804","Other services, except private households","TOTAL",733000,2019
+"805","Other services, except private households","TOTAL",971000,2019
+"806","Other services, except private households","TOTAL",14000,2019
+"807","Other services, except private households","TOTAL",2209000,2019
+"808","Other services, except private households","TOTAL",395000,2019
+"809","Other services, except private households","TOTAL",646000,2019
+"810","Other services, except private households","TOTAL",4000,2019
+"811","Other services, except private households","TOTAL",14000,2019
+"812","Other services, except private households","TOTAL",1061000,2019
+"813","Other services, except private households","TOTAL",457000,2019
+"814","Other services, except private households","TOTAL",291000,2019
+"815","Private households","TOTAL",6000,2019
+"816","Private households","TOTAL",5000,2019
+"817","Private households","TOTAL",0,2019
+"818","Private households","TOTAL",792000,2019
+"819","Private households","TOTAL",1000,2019
+"820","Private households","TOTAL",4000,2019
+"821","Private households","TOTAL",0,2019
+"822","Private households","TOTAL",3000,2019
+"823","Private households","TOTAL",0,2019
+"824","Private households","TOTAL",2000,2019
+"825","Private households","TOTAL",7000,2019
+"826","Public administration","TOTAL",1397000,2019
+"827","Public administration","TOTAL",1849000,2019
+"828","Public administration","TOTAL",1902000,2019
+"829","Public administration","TOTAL",375000,2019
+"830","Public administration","TOTAL",37000,2019
+"831","Public administration","TOTAL",1194000,2019
+"832","Public administration","TOTAL",16000,2019
+"833","Public administration","TOTAL",109000,2019
+"834","Public administration","TOTAL",156000,2019
+"835","Public administration","TOTAL",73000,2019
+"836","Public administration","TOTAL",118000,2019
+"837","Agriculture and related","Men",745000,2019
+"838","Agriculture and related","Men",28000,2019
+"839","Agriculture and related","Men",13000,2019
+"840","Agriculture and related","Men",62000,2019
+"841","Agriculture and related","Men",8000,2019
+"842","Agriculture and related","Men",14000,2019
+"843","Agriculture and related","Men",774000,2019
+"844","Agriculture and related","Men",12000,2019
+"845","Agriculture and related","Men",26000,2019
+"846","Agriculture and related","Men",32000,2019
+"847","Agriculture and related","Men",76000,2019
+"848","Mining, quarrying, and oil and gas extraction","Men",115000,2019
+"849","Mining, quarrying, and oil and gas extraction","Men",104000,2019
+"850","Mining, quarrying, and oil and gas extraction","Men",2000,2019
+"851","Mining, quarrying, and oil and gas extraction","Men",2000,2019
+"852","Mining, quarrying, and oil and gas extraction","Men",8000,2019
+"853","Mining, quarrying, and oil and gas extraction","Men",26000,2019
+"854","Mining, quarrying, and oil and gas extraction","Men",0,2019
+"855","Mining, quarrying, and oil and gas extraction","Men",205000,2019
+"856","Mining, quarrying, and oil and gas extraction","Men",52000,2019
+"857","Mining, quarrying, and oil and gas extraction","Men",39000,2019
+"858","Mining, quarrying, and oil and gas extraction","Men",79000,2019
+"859","Construction","Men",1948000,2019
+"860","Construction","Men",235000,2019
+"861","Construction","Men",17000,2019
+"862","Construction","Men",31000,2019
+"863","Construction","Men",83000,2019
+"864","Construction","Men",82000,2019
+"865","Construction","Men",4000,2019
+"866","Construction","Men",6822000,2019
+"867","Construction","Men",572000,2019
+"868","Construction","Men",152000,2019
+"869","Construction","Men",259000,2019
+"870","Manufacturing","Men",1872000,2019
+"871","Manufacturing","Men",1781000,2019
+"872","Manufacturing","Men",25000,2019
+"873","Manufacturing","Men",159000,2019
+"874","Manufacturing","Men",397000,2019
+"875","Manufacturing","Men",510000,2019
+"876","Manufacturing","Men",22000,2019
+"877","Manufacturing","Men",283000,2019
+"878","Manufacturing","Men",673000,2019
+"879","Manufacturing","Men",4423000,2019
+"880","Manufacturing","Men",966000,2019
+"881","Durable goods","Men",1207000,2019
+"882","Durable goods","Men",1361000,2019
+"883","Durable goods","Men",16000,2019
+"884","Durable goods","Men",81000,2019
+"885","Durable goods","Men",246000,2019
+"886","Durable goods","Men",312000,2019
+"887","Durable goods","Men",4000,2019
+"888","Durable goods","Men",228000,2019
+"889","Durable goods","Men",421000,2019
+"890","Durable goods","Men",3029000,2019
+"891","Durable goods","Men",560000,2019
+"892","Nondurable goods","Men",666000,2019
+"893","Nondurable goods","Men",419000,2019
+"894","Nondurable goods","Men",10000,2019
+"895","Nondurable goods","Men",78000,2019
+"896","Nondurable goods","Men",151000,2019
+"897","Nondurable goods","Men",197000,2019
+"898","Nondurable goods","Men",18000,2019
+"899","Nondurable goods","Men",55000,2019
+"900","Nondurable goods","Men",253000,2019
+"901","Nondurable goods","Men",1394000,2019
+"902","Nondurable goods","Men",406000,2019
+"903","Wholesale and retail trade","Men",837000,2019
+"904","Wholesale and retail trade","Men",516000,2019
+"905","Wholesale and retail trade","Men",37000,2019
+"906","Wholesale and retail trade","Men",303000,2019
+"907","Wholesale and retail trade","Men",5038000,2019
+"908","Wholesale and retail trade","Men",1377000,2019
+"909","Wholesale and retail trade","Men",29000,2019
+"910","Wholesale and retail trade","Men",92000,2019
+"911","Wholesale and retail trade","Men",695000,2019
+"912","Wholesale and retail trade","Men",361000,2019
+"913","Wholesale and retail trade","Men",1729000,2019
+"914","Wholesale trade","Men",346000,2019
+"915","Wholesale trade","Men",110000,2019
+"916","Wholesale trade","Men",5000,2019
+"917","Wholesale trade","Men",30000,2019
+"918","Wholesale trade","Men",1004000,2019
+"919","Wholesale trade","Men",221000,2019
+"920","Wholesale trade","Men",18000,2019
+"921","Wholesale trade","Men",23000,2019
+"922","Wholesale trade","Men",122000,2019
+"923","Wholesale trade","Men",89000,2019
+"924","Wholesale trade","Men",550000,2019
+"925","Retail trade","Men",491000,2019
+"926","Retail trade","Men",406000,2019
+"927","Retail trade","Men",32000,2019
+"928","Retail trade","Men",273000,2019
+"929","Retail trade","Men",4035000,2019
+"930","Retail trade","Men",1156000,2019
+"931","Retail trade","Men",11000,2019
+"932","Retail trade","Men",69000,2019
+"933","Retail trade","Men",573000,2019
+"934","Retail trade","Men",272000,2019
+"935","Retail trade","Men",1179000,2019
+"936","Transportation and utilities","Men",631000,2019
+"937","Transportation and utilities","Men",316000,2019
+"938","Transportation and utilities","Men",35000,2019
+"939","Transportation and utilities","Men",89000,2019
+"940","Transportation and utilities","Men",91000,2019
+"941","Transportation and utilities","Men",1003000,2019
+"942","Transportation and utilities","Men",5000,2019
+"943","Transportation and utilities","Men",174000,2019
+"944","Transportation and utilities","Men",511000,2019
+"945","Transportation and utilities","Men",335000,2019
+"946","Transportation and utilities","Men",3633000,2019
+"947","Information","Men",310000,2019
+"948","Information","Men",712000,2019
+"949","Information","Men",6000,2019
+"950","Information","Men",45000,2019
+"951","Information","Men",155000,2019
+"952","Information","Men",106000,2019
+"953","Information","Men",0,2019
+"954","Information","Men",15000,2019
+"955","Information","Men",239000,2019
+"956","Information","Men",20000,2019
+"957","Information","Men",37000,2019
+"958","Financial activities","Men",2416000,2019
+"959","Financial activities","Men",594000,2019
+"960","Financial activities","Men",34000,2019
+"961","Financial activities","Men",193000,2019
+"962","Financial activities","Men",1117000,2019
+"963","Financial activities","Men",428000,2019
+"964","Financial activities","Men",0,2019
+"965","Financial activities","Men",50000,2019
+"966","Financial activities","Men",172000,2019
+"967","Financial activities","Men",19000,2019
+"968","Financial activities","Men",82000,2019
+"969","Professional and business services","Men",2945000,2019
+"970","Professional and business services","Men",4196000,2019
+"971","Professional and business services","Men",472000,2019
+"972","Professional and business services","Men",1788000,2019
+"973","Professional and business services","Men",380000,2019
+"974","Professional and business services","Men",603000,2019
+"975","Professional and business services","Men",10000,2019
+"976","Professional and business services","Men",145000,2019
+"977","Professional and business services","Men",249000,2019
+"978","Professional and business services","Men",225000,2019
+"979","Professional and business services","Men",488000,2019
+"980","Education and health services","Men",1161000,2019
+"981","Education and health services","Men",5383000,2019
+"982","Education and health services","Men",112000,2019
+"983","Education and health services","Men",1357000,2019
+"984","Education and health services","Men",31000,2019
+"985","Education and health services","Men",419000,2019
+"986","Education and health services","Men",3000,2019
+"987","Education and health services","Men",77000,2019
+"988","Education and health services","Men",198000,2019
+"989","Education and health services","Men",64000,2019
+"990","Education and health services","Men",247000,2019
+"991","Leisure and hospitality","Men",1116000,2019
+"992","Leisure and hospitality","Men",566000,2019
+"993","Leisure and hospitality","Men",143000,2019
+"994","Leisure and hospitality","Men",4233000,2019
+"995","Leisure and hospitality","Men",352000,2019
+"996","Leisure and hospitality","Men",230000,2019
+"997","Leisure and hospitality","Men",4000,2019
+"998","Leisure and hospitality","Men",37000,2019
+"999","Leisure and hospitality","Men",104000,2019
+"1000","Leisure and hospitality","Men",68000,2019
+"1001","Leisure and hospitality","Men",292000,2019
+"1002","Other services","Men",332000,2019
+"1003","Other services","Men",545000,2019
+"1004","Other services","Men",12000,2019
+"1005","Other services","Men",596000,2019
+"1006","Other services","Men",299000,2019
+"1007","Other services","Men",104000,2019
+"1008","Other services","Men",2000,2019
+"1009","Other services","Men",18000,2019
+"1010","Other services","Men",1030000,2019
+"1011","Other services","Men",322000,2019
+"1012","Other services","Men",254000,2019
+"1013","Other services, except private households","Men",331000,2019
+"1014","Other services, except private households","Men",544000,2019
+"1015","Other services, except private households","Men",12000,2019
+"1016","Other services, except private households","Men",535000,2019
+"1017","Other services, except private households","Men",298000,2019
+"1018","Other services, except private households","Men",103000,2019
+"1019","Other services, except private households","Men",2000,2019
+"1020","Other services, except private households","Men",14000,2019
+"1021","Other services, except private households","Men",1030000,2019
+"1022","Other services, except private households","Men",322000,2019
+"1023","Other services, except private households","Men",247000,2019
+"1024","Private households","Men",1000,2019
+"1025","Private households","Men",1000,2019
+"1026","Private households","Men",0,2019
+"1027","Private households","Men",61000,2019
+"1028","Private households","Men",1000,2019
+"1029","Private households","Men",1000,2019
+"1030","Private households","Men",0,2019
+"1031","Private households","Men",3000,2019
+"1032","Private households","Men",0,2019
+"1033","Private households","Men",0,2019
+"1034","Private households","Men",6000,2019
+"1035","Public administration","Men",645000,2019
+"1036","Public administration","Men",905000,2019
+"1037","Public administration","Men",1529000,2019
+"1038","Public administration","Men",150000,2019
+"1039","Public administration","Men",18000,2019
+"1040","Public administration","Men",267000,2019
+"1041","Public administration","Men",9000,2019
+"1042","Public administration","Men",103000,2019
+"1043","Public administration","Men",149000,2019
+"1044","Public administration","Men",54000,2019
+"1045","Public administration","Men",92000,2019
+"1046","Agriculture and related","Women",263000,2019
+"1047","Agriculture and related","Women",14000,2019
+"1048","Agriculture and related","Women",3000,2019
+"1049","Agriculture and related","Women",36000,2019
+"1050","Agriculture and related","Women",9000,2019
+"1051","Agriculture and related","Women",67000,2019
+"1052","Agriculture and related","Women",219000,2019
+"1053","Agriculture and related","Women",0,2019
+"1054","Agriculture and related","Women",0,2019
+"1055","Agriculture and related","Women",6000,2019
+"1056","Agriculture and related","Women",18000,2019
+"1057","Mining, quarrying, and oil and gas extraction","Women",41000,2019
+"1058","Mining, quarrying, and oil and gas extraction","Women",23000,2019
+"1059","Mining, quarrying, and oil and gas extraction","Women",0,2019
+"1060","Mining, quarrying, and oil and gas extraction","Women",3000,2019
+"1061","Mining, quarrying, and oil and gas extraction","Women",3000,2019
+"1062","Mining, quarrying, and oil and gas extraction","Women",36000,2019
+"1063","Mining, quarrying, and oil and gas extraction","Women",0,2019
+"1064","Mining, quarrying, and oil and gas extraction","Women",8000,2019
+"1065","Mining, quarrying, and oil and gas extraction","Women",1000,2019
+"1066","Mining, quarrying, and oil and gas extraction","Women",1000,2019
+"1067","Mining, quarrying, and oil and gas extraction","Women",2000,2019
+"1068","Construction","Women",363000,2019
+"1069","Construction","Women",55000,2019
+"1070","Construction","Women",6000,2019
+"1071","Construction","Women",6000,2019
+"1072","Construction","Women",35000,2019
+"1073","Construction","Women",446000,2019
+"1074","Construction","Women",0,2019
+"1075","Construction","Women",222000,2019
+"1076","Construction","Women",17000,2019
+"1077","Construction","Women",8000,2019
+"1078","Construction","Women",9000,2019
+"1079","Manufacturing","Women",979000,2019
+"1080","Manufacturing","Women",523000,2019
+"1081","Manufacturing","Women",4000,2019
+"1082","Manufacturing","Women",73000,2019
+"1083","Manufacturing","Women",211000,2019
+"1084","Manufacturing","Women",765000,2019
+"1085","Manufacturing","Women",28000,2019
+"1086","Manufacturing","Women",17000,2019
+"1087","Manufacturing","Women",33000,2019
+"1088","Manufacturing","Women",1728000,2019
+"1089","Manufacturing","Women",269000,2019
+"1090","Durable goods","Women",550000,2019
+"1091","Durable goods","Women",304000,2019
+"1092","Durable goods","Women",1000,2019
+"1093","Durable goods","Women",25000,2019
+"1094","Durable goods","Women",95000,2019
+"1095","Durable goods","Women",452000,2019
+"1096","Durable goods","Women",0,2019
+"1097","Durable goods","Women",13000,2019
+"1098","Durable goods","Women",23000,2019
+"1099","Durable goods","Women",926000,2019
+"1100","Durable goods","Women",116000,2019
+"1101","Nondurable goods","Women",429000,2019
+"1102","Nondurable goods","Women",220000,2019
+"1103","Nondurable goods","Women",3000,2019
+"1104","Nondurable goods","Women",48000,2019
+"1105","Nondurable goods","Women",116000,2019
+"1106","Nondurable goods","Women",313000,2019
+"1107","Nondurable goods","Women",28000,2019
+"1108","Nondurable goods","Women",4000,2019
+"1109","Nondurable goods","Women",10000,2019
+"1110","Nondurable goods","Women",802000,2019
+"1111","Nondurable goods","Women",153000,2019
+"1112","Wholesale and retail trade","Women",619000,2019
+"1113","Wholesale and retail trade","Women",640000,2019
+"1114","Wholesale and retail trade","Women",20000,2019
+"1115","Wholesale and retail trade","Women",355000,2019
+"1116","Wholesale and retail trade","Women",4720000,2019
+"1117","Wholesale and retail trade","Women",1719000,2019
+"1118","Wholesale and retail trade","Women",30000,2019
+"1119","Wholesale and retail trade","Women",6000,2019
+"1120","Wholesale and retail trade","Women",23000,2019
+"1121","Wholesale and retail trade","Women",204000,2019
+"1122","Wholesale and retail trade","Women",393000,2019
+"1123","Wholesale trade","Women",172000,2019
+"1124","Wholesale trade","Women",60000,2019
+"1125","Wholesale trade","Women",2000,2019
+"1126","Wholesale trade","Women",16000,2019
+"1127","Wholesale trade","Women",305000,2019
+"1128","Wholesale trade","Women",304000,2019
+"1129","Wholesale trade","Women",21000,2019
+"1130","Wholesale trade","Women",0,2019
+"1131","Wholesale trade","Women",6000,2019
+"1132","Wholesale trade","Women",24000,2019
+"1133","Wholesale trade","Women",96000,2019
+"1134","Retail trade","Women",447000,2019
+"1135","Retail trade","Women",580000,2019
+"1136","Retail trade","Women",18000,2019
+"1137","Retail trade","Women",339000,2019
+"1138","Retail trade","Women",4415000,2019
+"1139","Retail trade","Women",1416000,2019
+"1140","Retail trade","Women",8000,2019
+"1141","Retail trade","Women",5000,2019
+"1142","Retail trade","Women",17000,2019
+"1143","Retail trade","Women",180000,2019
+"1144","Retail trade","Women",296000,2019
+"1145","Transportation and utilities","Women",302000,2019
+"1146","Transportation and utilities","Women",94000,2019
+"1147","Transportation and utilities","Women",6000,2019
+"1148","Transportation and utilities","Women",53000,2019
+"1149","Transportation and utilities","Women",44000,2019
+"1150","Transportation and utilities","Women",885000,2019
+"1151","Transportation and utilities","Women",2000,2019
+"1152","Transportation and utilities","Women",4000,2019
+"1153","Transportation and utilities","Women",7000,2019
+"1154","Transportation and utilities","Women",70000,2019
+"1155","Transportation and utilities","Women",699000,2019
+"1156","Information","Women",257000,2019
+"1157","Information","Women",411000,2019
+"1158","Information","Women",3000,2019
+"1159","Information","Women",31000,2019
+"1160","Information","Women",112000,2019
+"1161","Information","Women",269000,2019
+"1162","Information","Women",0,2019
+"1163","Information","Women",1000,2019
+"1164","Information","Women",15000,2019
+"1165","Information","Women",11000,2019
+"1166","Information","Women",10000,2019
+"1167","Financial activities","Women",2230000,2019
+"1168","Financial activities","Women",448000,2019
+"1169","Financial activities","Women",24000,2019
+"1170","Financial activities","Women",84000,2019
+"1171","Financial activities","Women",1201000,2019
+"1172","Financial activities","Women",1619000,2019
+"1173","Financial activities","Women",0,2019
+"1174","Financial activities","Women",7000,2019
+"1175","Financial activities","Women",15000,2019
+"1176","Financial activities","Women",19000,2019
+"1177","Financial activities","Women",13000,2019
+"1178","Professional and business services","Women",2279000,2019
+"1179","Professional and business services","Women",2443000,2019
+"1180","Professional and business services","Women",134000,2019
+"1181","Professional and business services","Women",1079000,2019
+"1182","Professional and business services","Women",301000,2019
+"1183","Professional and business services","Women",1670000,2019
+"1184","Professional and business services","Women",2000,2019
+"1185","Professional and business services","Women",6000,2019
+"1186","Professional and business services","Women",20000,2019
+"1187","Professional and business services","Women",77000,2019
+"1188","Professional and business services","Women",94000,2019
+"1189","Education and health services","Women",2411000,2019
+"1190","Education and health services","Women",14880000,2019
+"1191","Education and health services","Women",52000,2019
+"1192","Education and health services","Women",5979000,2019
+"1193","Education and health services","Women",79000,2019
+"1194","Education and health services","Women",3129000,2019
+"1195","Education and health services","Women",2000,2019
+"1196","Education and health services","Women",9000,2019
+"1197","Education and health services","Women",15000,2019
+"1198","Education and health services","Women",108000,2019
+"1199","Education and health services","Women",177000,2019
+"1200","Leisure and hospitality","Women",1006000,2019
+"1201","Leisure and hospitality","Women",450000,2019
+"1202","Leisure and hospitality","Women",64000,2019
+"1203","Leisure and hospitality","Women",4513000,2019
+"1204","Leisure and hospitality","Women",771000,2019
+"1205","Leisure and hospitality","Women",540000,2019
+"1206","Leisure and hospitality","Women",2000,2019
+"1207","Leisure and hospitality","Women",5000,2019
+"1208","Leisure and hospitality","Women",9000,2019
+"1209","Leisure and hospitality","Women",62000,2019
+"1210","Leisure and hospitality","Women",77000,2019
+"1211","Other services","Women",408000,2019
+"1212","Other services","Women",432000,2019
+"1213","Other services","Women",2000,2019
+"1214","Other services","Women",2405000,2019
+"1215","Other services","Women",97000,2019
+"1216","Other services","Women",546000,2019
+"1217","Other services","Women",1000,2019
+"1218","Other services","Women",0,2019
+"1219","Other services","Women",31000,2019
+"1220","Other services","Women",137000,2019
+"1221","Other services","Women",45000,2019
+"1222","Other services, except private households","Women",403000,2019
+"1223","Other services, except private households","Women",428000,2019
+"1224","Other services, except private households","Women",2000,2019
+"1225","Other services, except private households","Women",1673000,2019
+"1226","Other services, except private households","Women",97000,2019
+"1227","Other services, except private households","Women",543000,2019
+"1228","Other services, except private households","Women",1000,2019
+"1229","Other services, except private households","Women",0,2019
+"1230","Other services, except private households","Women",31000,2019
+"1231","Other services, except private households","Women",135000,2019
+"1232","Other services, except private households","Women",44000,2019
+"1233","Private households","Women",5000,2019
+"1234","Private households","Women",5000,2019
+"1235","Private households","Women",0,2019
+"1236","Private households","Women",731000,2019
+"1237","Private households","Women",0,2019
+"1238","Private households","Women",4000,2019
+"1239","Private households","Women",0,2019
+"1240","Private households","Women",0,2019
+"1241","Private households","Women",0,2019
+"1242","Private households","Women",2000,2019
+"1243","Private households","Women",0,2019
+"1244","Public administration","Women",752000,2019
+"1245","Public administration","Women",944000,2019
+"1246","Public administration","Women",373000,2019
+"1247","Public administration","Women",225000,2019
+"1248","Public administration","Women",19000,2019
+"1249","Public administration","Women",927000,2019
+"1250","Public administration","Women",6000,2019
+"1251","Public administration","Women",5000,2019
+"1252","Public administration","Women",6000,2019
+"1253","Public administration","Women",19000,2019
+"1254","Public administration","Women",26000,2019
+"1255","Agriculture and related","TOTAL",1032000,2018
+"1256","Agriculture and related","TOTAL",41000,2018
+"1257","Agriculture and related","TOTAL",14000,2018
+"1258","Agriculture and related","TOTAL",84000,2018
+"1259","Agriculture and related","TOTAL",15000,2018
+"1260","Agriculture and related","TOTAL",83000,2018
+"1261","Agriculture and related","TOTAL",966000,2018
+"1262","Agriculture and related","TOTAL",15000,2018
+"1263","Agriculture and related","TOTAL",36000,2018
+"1264","Agriculture and related","TOTAL",41000,2018
+"1265","Agriculture and related","TOTAL",98000,2018
+"1266","Mining, quarrying, and
+oil and gas extraction","TOTAL",144000,2018
+"1267","Mining, quarrying, and
+oil and gas extraction","TOTAL",109000,2018
+"1268","Mining, quarrying, and
+oil and gas extraction","TOTAL",4000,2018
+"1269","Mining, quarrying, and
+oil and gas extraction","TOTAL",10000,2018
+"1270","Mining, quarrying, and
+oil and gas extraction","TOTAL",11000,2018
+"1271","Mining, quarrying, and
+oil and gas extraction","TOTAL",51000,2018
+"1272","Mining, quarrying, and
+oil and gas extraction","TOTAL",0,2018
+"1273","Mining, quarrying, and
+oil and gas extraction","TOTAL",246000,2018
+"1274","Mining, quarrying, and
+oil and gas extraction","TOTAL",55000,2018
+"1275","Mining, quarrying, and
+oil and gas extraction","TOTAL",51000,2018
+"1276","Mining, quarrying, and
+oil and gas extraction","TOTAL",102000,2018
+"1277","Construction","TOTAL",2149000,2018
+"1278","Construction","TOTAL",302000,2018
+"1279","Construction","TOTAL",18000,2018
+"1280","Construction","TOTAL",49000,2018
+"1281","Construction","TOTAL",124000,2018
+"1282","Construction","TOTAL",543000,2018
+"1283","Construction","TOTAL",3000,2018
+"1284","Construction","TOTAL",6992000,2018
+"1285","Construction","TOTAL",585000,2018
+"1286","Construction","TOTAL",185000,2018
+"1287","Construction","TOTAL",232000,2018
+"1288","Manufacturing","TOTAL",2630000,2018
+"1289","Manufacturing","TOTAL",2297000,2018
+"1290","Manufacturing","TOTAL",26000,2018
+"1291","Manufacturing","TOTAL",238000,2018
+"1292","Manufacturing","TOTAL",602000,2018
+"1293","Manufacturing","TOTAL",1243000,2018
+"1294","Manufacturing","TOTAL",56000,2018
+"1295","Manufacturing","TOTAL",313000,2018
+"1296","Manufacturing","TOTAL",710000,2018
+"1297","Manufacturing","TOTAL",6103000,2018
+"1298","Manufacturing","TOTAL",1344000,2018
+"1299","Durable goods","TOTAL",1661000,2018
+"1300","Durable goods","TOTAL",1649000,2018
+"1301","Durable goods","TOTAL",12000,2018
+"1302","Durable goods","TOTAL",93000,2018
+"1303","Durable goods","TOTAL",313000,2018
+"1304","Durable goods","TOTAL",783000,2018
+"1305","Durable goods","TOTAL",4000,2018
+"1306","Durable goods","TOTAL",246000,2018
+"1307","Durable goods","TOTAL",441000,2018
+"1308","Durable goods","TOTAL",3872000,2018
+"1309","Durable goods","TOTAL",757000,2018
+"1310","Nondurable goods","TOTAL",969000,2018
+"1311","Nondurable goods","TOTAL",647000,2018
+"1312","Nondurable goods","TOTAL",14000,2018
+"1313","Nondurable goods","TOTAL",145000,2018
+"1314","Nondurable goods","TOTAL",289000,2018
+"1315","Nondurable goods","TOTAL",460000,2018
+"1316","Nondurable goods","TOTAL",52000,2018
+"1317","Nondurable goods","TOTAL",67000,2018
+"1318","Nondurable goods","TOTAL",269000,2018
+"1319","Nondurable goods","TOTAL",2231000,2018
+"1320","Nondurable goods","TOTAL",587000,2018
+"1321","Wholesale and retail trade","TOTAL",1456000,2018
+"1322","Wholesale and retail trade","TOTAL",1210000,2018
+"1323","Wholesale and retail trade","TOTAL",61000,2018
+"1324","Wholesale and retail trade","TOTAL",671000,2018
+"1325","Wholesale and retail trade","TOTAL",10063000,2018
+"1326","Wholesale and retail trade","TOTAL",3235000,2018
+"1327","Wholesale and retail trade","TOTAL",46000,2018
+"1328","Wholesale and retail trade","TOTAL",1e+05,2018
+"1329","Wholesale and retail trade","TOTAL",703000,2018
+"1330","Wholesale and retail trade","TOTAL",606000,2018
+"1331","Wholesale and retail trade","TOTAL",2120000,2018
+"1332","Wholesale trade","TOTAL",516000,2018
+"1333","Wholesale trade","TOTAL",179000,2018
+"1334","Wholesale trade","TOTAL",6000,2018
+"1335","Wholesale trade","TOTAL",51000,2018
+"1336","Wholesale trade","TOTAL",1297000,2018
+"1337","Wholesale trade","TOTAL",557000,2018
+"1338","Wholesale trade","TOTAL",33000,2018
+"1339","Wholesale trade","TOTAL",27000,2018
+"1340","Wholesale trade","TOTAL",126000,2018
+"1341","Wholesale trade","TOTAL",133000,2018
+"1342","Wholesale trade","TOTAL",747000,2018
+"1343","Retail trade","TOTAL",940000,2018
+"1344","Retail trade","TOTAL",1031000,2018
+"1345","Retail trade","TOTAL",55000,2018
+"1346","Retail trade","TOTAL",620000,2018
+"1347","Retail trade","TOTAL",8766000,2018
+"1348","Retail trade","TOTAL",2678000,2018
+"1349","Retail trade","TOTAL",13000,2018
+"1350","Retail trade","TOTAL",74000,2018
+"1351","Retail trade","TOTAL",577000,2018
+"1352","Retail trade","TOTAL",472000,2018
+"1353","Retail trade","TOTAL",1372000,2018
+"1354","Transportation and utilities","TOTAL",912000,2018
+"1355","Transportation and utilities","TOTAL",418000,2018
+"1356","Transportation and utilities","TOTAL",30000,2018
+"1357","Transportation and utilities","TOTAL",164000,2018
+"1358","Transportation and utilities","TOTAL",130000,2018
+"1359","Transportation and utilities","TOTAL",1729000,2018
+"1360","Transportation and utilities","TOTAL",1000,2018
+"1361","Transportation and utilities","TOTAL",186000,2018
+"1362","Transportation and utilities","TOTAL",560000,2018
+"1363","Transportation and utilities","TOTAL",377000,2018
+"1364","Transportation and utilities","TOTAL",4044000,2018
+"1365","Information","TOTAL",611000,2018
+"1366","Information","TOTAL",1159000,2018
+"1367","Information","TOTAL",6000,2018
+"1368","Information","TOTAL",67000,2018
+"1369","Information","TOTAL",319000,2018
+"1370","Information","TOTAL",379000,2018
+"1371","Information","TOTAL",0,2018
+"1372","Information","TOTAL",14000,2018
+"1373","Information","TOTAL",291000,2018
+"1374","Information","TOTAL",33000,2018
+"1375","Information","TOTAL",39000,2018
+"1376","Financial activities","TOTAL",4498000,2018
+"1377","Financial activities","TOTAL",967000,2018
+"1378","Financial activities","TOTAL",54000,2018
+"1379","Financial activities","TOTAL",309000,2018
+"1380","Financial activities","TOTAL",2381000,2018
+"1381","Financial activities","TOTAL",2060000,2018
+"1382","Financial activities","TOTAL",0,2018
+"1383","Financial activities","TOTAL",62000,2018
+"1384","Financial activities","TOTAL",161000,2018
+"1385","Financial activities","TOTAL",43000,2018
+"1386","Financial activities","TOTAL",115000,2018
+"1387","Professional and business services","TOTAL",4777000,2018
+"1388","Professional and business services","TOTAL",6510000,2018
+"1389","Professional and business services","TOTAL",622000,2018
+"1390","Professional and business services","TOTAL",2909000,2018
+"1391","Professional and business services","TOTAL",648000,2018
+"1392","Professional and business services","TOTAL",2149000,2018
+"1393","Professional and business services","TOTAL",14000,2018
+"1394","Professional and business services","TOTAL",161000,2018
+"1395","Professional and business services","TOTAL",282000,2018
+"1396","Professional and business services","TOTAL",303000,2018
+"1397","Professional and business services","TOTAL",575000,2018
+"1398","Education and health services","TOTAL",3381000,2018
+"1399","Education and health services","TOTAL",19706000,2018
+"1400","Education and health services","TOTAL",183000,2018
+"1401","Education and health services","TOTAL",7239000,2018
+"1402","Education and health services","TOTAL",109000,2018
+"1403","Education and health services","TOTAL",3525000,2018
+"1404","Education and health services","TOTAL",4000,2018
+"1405","Education and health services","TOTAL",77000,2018
+"1406","Education and health services","TOTAL",216000,2018
+"1407","Education and health services","TOTAL",181000,2018
+"1408","Education and health services","TOTAL",421000,2018
+"1409","Leisure and hospitality","TOTAL",2096000,2018
+"1410","Leisure and hospitality","TOTAL",983000,2018
+"1411","Leisure and hospitality","TOTAL",204000,2018
+"1412","Leisure and hospitality","TOTAL",8530000,2018
+"1413","Leisure and hospitality","TOTAL",1006000,2018
+"1414","Leisure and hospitality","TOTAL",783000,2018
+"1415","Leisure and hospitality","TOTAL",6000,2018
+"1416","Leisure and hospitality","TOTAL",45000,2018
+"1417","Leisure and hospitality","TOTAL",107000,2018
+"1418","Leisure and hospitality","TOTAL",128000,2018
+"1419","Leisure and hospitality","TOTAL",380000,2018
+"1420","Other services","TOTAL",713000,2018
+"1421","Other services","TOTAL",996000,2018
+"1422","Other services","TOTAL",29000,2018
+"1423","Other services","TOTAL",3e+06,2018
+"1424","Other services","TOTAL",363000,2018
+"1425","Other services","TOTAL",638000,2018
+"1426","Other services","TOTAL",3000,2018
+"1427","Other services","TOTAL",16000,2018
+"1428","Other services","TOTAL",1153000,2018
+"1429","Other services","TOTAL",490000,2018
+"1430","Other services","TOTAL",343000,2018
+"1431","Other services, except private households","TOTAL",711000,2018
+"1432","Other services, except private households","TOTAL",989000,2018
+"1433","Other services, except private households","TOTAL",29000,2018
+"1434","Other services, except private households","TOTAL",2246000,2018
+"1435","Other services, except private households","TOTAL",362000,2018
+"1436","Other services, except private households","TOTAL",634000,2018
+"1437","Other services, except private households","TOTAL",3000,2018
+"1438","Other services, except private households","TOTAL",15000,2018
+"1439","Other services, except private households","TOTAL",1152000,2018
+"1440","Other services, except private households","TOTAL",489000,2018
+"1441","Other services, except private households","TOTAL",336000,2018
+"1442","Private households","TOTAL",3000,2018
+"1443","Private households","TOTAL",7000,2018
+"1444","Private households","TOTAL",0,2018
+"1445","Private households","TOTAL",754000,2018
+"1446","Private households","TOTAL",0,2018
+"1447","Private households","TOTAL",4000,2018
+"1448","Private households","TOTAL",0,2018
+"1449","Private households","TOTAL",0,2018
+"1450","Private households","TOTAL",0,2018
+"1451","Private households","TOTAL",1000,2018
+"1452","Private households","TOTAL",8000,2018
+"1453","Public administration","TOTAL",1451000,2018
+"1454","Public administration","TOTAL",1888000,2018
+"1455","Public administration","TOTAL",1954000,2018
+"1456","Public administration","TOTAL",383000,2018
+"1457","Public administration","TOTAL",35000,2018
+"1458","Public administration","TOTAL",1238000,2018
+"1459","Public administration","TOTAL",23000,2018
+"1460","Public administration","TOTAL",111000,2018
+"1461","Public administration","TOTAL",153000,2018
+"1462","Public administration","TOTAL",79000,2018
+"1463","Public administration","TOTAL",105000,2018
+"1464","Agriculture and related","Men",753000,2018
+"1465","Agriculture and related","Men",26000,2018
+"1466","Agriculture and related","Men",11000,2018
+"1467","Agriculture and related","Men",52000,2018
+"1468","Agriculture and related","Men",12000,2018
+"1469","Agriculture and related","Men",14000,2018
+"1470","Agriculture and related","Men",759000,2018
+"1471","Agriculture and related","Men",14000,2018
+"1472","Agriculture and related","Men",36000,2018
+"1473","Agriculture and related","Men",33000,2018
+"1474","Agriculture and related","Men",86000,2018
+"1475","Mining, quarrying, and
+oil and gas extraction","Men",111000,2018
+"1476","Mining, quarrying, and
+oil and gas extraction","Men",85000,2018
+"1477","Mining, quarrying, and
+oil and gas extraction","Men",4000,2018
+"1478","Mining, quarrying, and
+oil and gas extraction","Men",8000,2018
+"1479","Mining, quarrying, and
+oil and gas extraction","Men",10000,2018
+"1480","Mining, quarrying, and
+oil and gas extraction","Men",17000,2018
+"1481","Mining, quarrying, and
+oil and gas extraction","Men",0,2018
+"1482","Mining, quarrying, and
+oil and gas extraction","Men",240000,2018
+"1483","Mining, quarrying, and
+oil and gas extraction","Men",54000,2018
+"1484","Mining, quarrying, and
+oil and gas extraction","Men",47000,2018
+"1485","Mining, quarrying, and
+oil and gas extraction","Men",99000,2018
+"1486","Construction","Men",1859000,2018
+"1487","Construction","Men",240000,2018
+"1488","Construction","Men",13000,2018
+"1489","Construction","Men",36000,2018
+"1490","Construction","Men",98000,2018
+"1491","Construction","Men",79000,2018
+"1492","Construction","Men",3000,2018
+"1493","Construction","Men",6770000,2018
+"1494","Construction","Men",575000,2018
+"1495","Construction","Men",182000,2018
+"1496","Construction","Men",226000,2018
+"1497","Manufacturing","Men",1752000,2018
+"1498","Manufacturing","Men",1783000,2018
+"1499","Manufacturing","Men",20000,2018
+"1500","Manufacturing","Men",151000,2018
+"1501","Manufacturing","Men",380000,2018
+"1502","Manufacturing","Men",516000,2018
+"1503","Manufacturing","Men",29000,2018
+"1504","Manufacturing","Men",301000,2018
+"1505","Manufacturing","Men",685000,2018
+"1506","Manufacturing","Men",4336000,2018
+"1507","Manufacturing","Men",1071000,2018
+"1508","Durable goods","Men",1148000,2018
+"1509","Durable goods","Men",1347000,2018
+"1510","Durable goods","Men",9000,2018
+"1511","Durable goods","Men",64000,2018
+"1512","Durable goods","Men",236000,2018
+"1513","Durable goods","Men",318000,2018
+"1514","Durable goods","Men",4000,2018
+"1515","Durable goods","Men",235000,2018
+"1516","Durable goods","Men",424000,2018
+"1517","Durable goods","Men",2958000,2018
+"1518","Durable goods","Men",626000,2018
+"1519","Nondurable goods","Men",604000,2018
+"1520","Nondurable goods","Men",436000,2018
+"1521","Nondurable goods","Men",10000,2018
+"1522","Nondurable goods","Men",87000,2018
+"1523","Nondurable goods","Men",144000,2018
+"1524","Nondurable goods","Men",198000,2018
+"1525","Nondurable goods","Men",25000,2018
+"1526","Nondurable goods","Men",66000,2018
+"1527","Nondurable goods","Men",261000,2018
+"1528","Nondurable goods","Men",1378000,2018
+"1529","Nondurable goods","Men",445000,2018
+"1530","Wholesale and retail trade","Men",838000,2018
+"1531","Wholesale and retail trade","Men",544000,2018
+"1532","Wholesale and retail trade","Men",41000,2018
+"1533","Wholesale and retail trade","Men",286000,2018
+"1534","Wholesale and retail trade","Men",5127000,2018
+"1535","Wholesale and retail trade","Men",1444000,2018
+"1536","Wholesale and retail trade","Men",24000,2018
+"1537","Wholesale and retail trade","Men",97000,2018
+"1538","Wholesale and retail trade","Men",681000,2018
+"1539","Wholesale and retail trade","Men",414000,2018
+"1540","Wholesale and retail trade","Men",1706000,2018
+"1541","Wholesale trade","Men",339000,2018
+"1542","Wholesale trade","Men",117000,2018
+"1543","Wholesale trade","Men",5000,2018
+"1544","Wholesale trade","Men",29000,2018
+"1545","Wholesale trade","Men",999000,2018
+"1546","Wholesale trade","Men",232000,2018
+"1547","Wholesale trade","Men",18000,2018
+"1548","Wholesale trade","Men",27000,2018
+"1549","Wholesale trade","Men",123000,2018
+"1550","Wholesale trade","Men",102000,2018
+"1551","Wholesale trade","Men",633000,2018
+"1552","Retail trade","Men",5e+05,2018
+"1553","Retail trade","Men",426000,2018
+"1554","Retail trade","Men",36000,2018
+"1555","Retail trade","Men",257000,2018
+"1556","Retail trade","Men",4128000,2018
+"1557","Retail trade","Men",1212000,2018
+"1558","Retail trade","Men",6000,2018
+"1559","Retail trade","Men",70000,2018
+"1560","Retail trade","Men",558000,2018
+"1561","Retail trade","Men",313000,2018
+"1562","Retail trade","Men",1074000,2018
+"1563","Transportation and utilities","Men",627000,2018
+"1564","Transportation and utilities","Men",311000,2018
+"1565","Transportation and utilities","Men",23000,2018
+"1566","Transportation and utilities","Men",104000,2018
+"1567","Transportation and utilities","Men",81000,2018
+"1568","Transportation and utilities","Men",883000,2018
+"1569","Transportation and utilities","Men",1000,2018
+"1570","Transportation and utilities","Men",181000,2018
+"1571","Transportation and utilities","Men",540000,2018
+"1572","Transportation and utilities","Men",321000,2018
+"1573","Transportation and utilities","Men",3396000,2018
+"1574","Information","Men",373000,2018
+"1575","Information","Men",753000,2018
+"1576","Information","Men",5000,2018
+"1577","Information","Men",39000,2018
+"1578","Information","Men",178000,2018
+"1579","Information","Men",113000,2018
+"1580","Information","Men",0,2018
+"1581","Information","Men",14000,2018
+"1582","Information","Men",271000,2018
+"1583","Information","Men",23000,2018
+"1584","Information","Men",32000,2018
+"1585","Financial activities","Men",2272000,2018
+"1586","Financial activities","Men",576000,2018
+"1587","Financial activities","Men",36000,2018
+"1588","Financial activities","Men",224000,2018
+"1589","Financial activities","Men",1185000,2018
+"1590","Financial activities","Men",428000,2018
+"1591","Financial activities","Men",0,2018
+"1592","Financial activities","Men",56000,2018
+"1593","Financial activities","Men",152000,2018
+"1594","Financial activities","Men",23000,2018
+"1595","Financial activities","Men",99000,2018
+"1596","Professional and business services","Men",2668000,2018
+"1597","Professional and business services","Men",4147000,2018
+"1598","Professional and business services","Men",466000,2018
+"1599","Professional and business services","Men",1832000,2018
+"1600","Professional and business services","Men",348000,2018
+"1601","Professional and business services","Men",531000,2018
+"1602","Professional and business services","Men",10000,2018
+"1603","Professional and business services","Men",149000,2018
+"1604","Professional and business services","Men",268000,2018
+"1605","Professional and business services","Men",198000,2018
+"1606","Professional and business services","Men",462000,2018
+"1607","Education and health services","Men",1136000,2018
+"1608","Education and health services","Men",5318000,2018
+"1609","Education and health services","Men",131000,2018
+"1610","Education and health services","Men",1401000,2018
+"1611","Education and health services","Men",27000,2018
+"1612","Education and health services","Men",373000,2018
+"1613","Education and health services","Men",2000,2018
+"1614","Education and health services","Men",73000,2018
+"1615","Education and health services","Men",195000,2018
+"1616","Education and health services","Men",82000,2018
+"1617","Education and health services","Men",247000,2018
+"1618","Leisure and hospitality","Men",1085000,2018
+"1619","Leisure and hospitality","Men",569000,2018
+"1620","Leisure and hospitality","Men",144000,2018
+"1621","Leisure and hospitality","Men",4077000,2018
+"1622","Leisure and hospitality","Men",272000,2018
+"1623","Leisure and hospitality","Men",255000,2018
+"1624","Leisure and hospitality","Men",4000,2018
+"1625","Leisure and hospitality","Men",39000,2018
+"1626","Leisure and hospitality","Men",105000,2018
+"1627","Leisure and hospitality","Men",65000,2018
+"1628","Leisure and hospitality","Men",305000,2018
+"1629","Other services","Men",304000,2018
+"1630","Other services","Men",565000,2018
+"1631","Other services","Men",17000,2018
+"1632","Other services","Men",573000,2018
+"1633","Other services","Men",266000,2018
+"1634","Other services","Men",75000,2018
+"1635","Other services","Men",2000,2018
+"1636","Other services","Men",16000,2018
+"1637","Other services","Men",1116000,2018
+"1638","Other services","Men",356000,2018
+"1639","Other services","Men",306000,2018
+"1640","Other services, except private households","Men",304000,2018
+"1641","Other services, except private households","Men",564000,2018
+"1642","Other services, except private households","Men",17000,2018
+"1643","Other services, except private households","Men",531000,2018
+"1644","Other services, except private households","Men",266000,2018
+"1645","Other services, except private households","Men",73000,2018
+"1646","Other services, except private households","Men",2000,2018
+"1647","Other services, except private households","Men",15000,2018
+"1648","Other services, except private households","Men",1115000,2018
+"1649","Other services, except private households","Men",356000,2018
+"1650","Other services, except private households","Men",299000,2018
+"1651","Private households","Men",0,2018
+"1652","Private households","Men",1000,2018
+"1653","Private households","Men",0,2018
+"1654","Private households","Men",42000,2018
+"1655","Private households","Men",0,2018
+"1656","Private households","Men",2000,2018
+"1657","Private households","Men",0,2018
+"1658","Private households","Men",0,2018
+"1659","Private households","Men",0,2018
+"1660","Private households","Men",0,2018
+"1661","Private households","Men",6000,2018
+"1662","Public administration","Men",686000,2018
+"1663","Public administration","Men",907000,2018
+"1664","Public administration","Men",1574000,2018
+"1665","Public administration","Men",151000,2018
+"1666","Public administration","Men",16000,2018
+"1667","Public administration","Men",281000,2018
+"1668","Public administration","Men",15000,2018
+"1669","Public administration","Men",104000,2018
+"1670","Public administration","Men",147000,2018
+"1671","Public administration","Men",59000,2018
+"1672","Public administration","Men",85000,2018
+"1673","Agriculture and related","Women",278000,2018
+"1674","Agriculture and related","Women",15000,2018
+"1675","Agriculture and related","Women",2000,2018
+"1676","Agriculture and related","Women",32000,2018
+"1677","Agriculture and related","Women",3000,2018
+"1678","Agriculture and related","Women",69000,2018
+"1679","Agriculture and related","Women",207000,2018
+"1680","Agriculture and related","Women",1000,2018
+"1681","Agriculture and related","Women",0,2018
+"1682","Agriculture and related","Women",8000,2018
+"1683","Agriculture and related","Women",12000,2018
+"1684","Mining, quarrying, and
+oil and gas extraction","Women",33000,2018
+"1685","Mining, quarrying, and
+oil and gas extraction","Women",24000,2018
+"1686","Mining, quarrying, and
+oil and gas extraction","Women",0,2018
+"1687","Mining, quarrying, and
+oil and gas extraction","Women",2000,2018
+"1688","Mining, quarrying, and
+oil and gas extraction","Women",1000,2018
+"1689","Mining, quarrying, and
+oil and gas extraction","Women",35000,2018
+"1690","Mining, quarrying, and
+oil and gas extraction","Women",0,2018
+"1691","Mining, quarrying, and
+oil and gas extraction","Women",6000,2018
+"1692","Mining, quarrying, and
+oil and gas extraction","Women",1000,2018
+"1693","Mining, quarrying, and
+oil and gas extraction","Women",3000,2018
+"1694","Mining, quarrying, and
+oil and gas extraction","Women",3000,2018
+"1695","Construction","Women",290000,2018
+"1696","Construction","Women",62000,2018
+"1697","Construction","Women",5000,2018
+"1698","Construction","Women",13000,2018
+"1699","Construction","Women",26000,2018
+"1700","Construction","Women",464000,2018
+"1701","Construction","Women",0,2018
+"1702","Construction","Women",222000,2018
+"1703","Construction","Women",10000,2018
+"1704","Construction","Women",3000,2018
+"1705","Construction","Women",7000,2018
+"1706","Manufacturing","Women",878000,2018
+"1707","Manufacturing","Women",514000,2018
+"1708","Manufacturing","Women",6000,2018
+"1709","Manufacturing","Women",87000,2018
+"1710","Manufacturing","Women",222000,2018
+"1711","Manufacturing","Women",726000,2018
+"1712","Manufacturing","Women",27000,2018
+"1713","Manufacturing","Women",12000,2018
+"1714","Manufacturing","Women",25000,2018
+"1715","Manufacturing","Women",1767000,2018
+"1716","Manufacturing","Women",273000,2018
+"1717","Durable goods","Women",513000,2018
+"1718","Durable goods","Women",302000,2018
+"1719","Durable goods","Women",2000,2018
+"1720","Durable goods","Women",29000,2018
+"1721","Durable goods","Women",77000,2018
+"1722","Durable goods","Women",465000,2018
+"1723","Durable goods","Women",1000,2018
+"1724","Durable goods","Women",10000,2018
+"1725","Durable goods","Women",17000,2018
+"1726","Durable goods","Women",915000,2018
+"1727","Durable goods","Women",131000,2018
+"1728","Nondurable goods","Women",365000,2018
+"1729","Nondurable goods","Women",211000,2018
+"1730","Nondurable goods","Women",4000,2018
+"1731","Nondurable goods","Women",58000,2018
+"1732","Nondurable goods","Women",145000,2018
+"1733","Nondurable goods","Women",262000,2018
+"1734","Nondurable goods","Women",26000,2018
+"1735","Nondurable goods","Women",1000,2018
+"1736","Nondurable goods","Women",8000,2018
+"1737","Nondurable goods","Women",853000,2018
+"1738","Nondurable goods","Women",141000,2018
+"1739","Wholesale and retail trade","Women",618000,2018
+"1740","Wholesale and retail trade","Women",666000,2018
+"1741","Wholesale and retail trade","Women",20000,2018
+"1742","Wholesale and retail trade","Women",385000,2018
+"1743","Wholesale and retail trade","Women",4936000,2018
+"1744","Wholesale and retail trade","Women",1791000,2018
+"1745","Wholesale and retail trade","Women",22000,2018
+"1746","Wholesale and retail trade","Women",3000,2018
+"1747","Wholesale and retail trade","Women",22000,2018
+"1748","Wholesale and retail trade","Women",191000,2018
+"1749","Wholesale and retail trade","Women",413000,2018
+"1750","Wholesale trade","Women",178000,2018
+"1751","Wholesale trade","Women",61000,2018
+"1752","Wholesale trade","Women",0,2018
+"1753","Wholesale trade","Women",22000,2018
+"1754","Wholesale trade","Women",298000,2018
+"1755","Wholesale trade","Women",325000,2018
+"1756","Wholesale trade","Women",15000,2018
+"1757","Wholesale trade","Women",0,2018
+"1758","Wholesale trade","Women",3000,2018
+"1759","Wholesale trade","Women",31000,2018
+"1760","Wholesale trade","Women",115000,2018
+"1761","Retail trade","Women",440000,2018
+"1762","Retail trade","Women",605000,2018
+"1763","Retail trade","Women",19000,2018
+"1764","Retail trade","Women",363000,2018
+"1765","Retail trade","Women",4638000,2018
+"1766","Retail trade","Women",1466000,2018
+"1767","Retail trade","Women",7000,2018
+"1768","Retail trade","Women",3000,2018
+"1769","Retail trade","Women",19000,2018
+"1770","Retail trade","Women",160000,2018
+"1771","Retail trade","Women",298000,2018
+"1772","Transportation and utilities","Women",284000,2018
+"1773","Transportation and utilities","Women",107000,2018
+"1774","Transportation and utilities","Women",7000,2018
+"1775","Transportation and utilities","Women",60000,2018
+"1776","Transportation and utilities","Women",49000,2018
+"1777","Transportation and utilities","Women",845000,2018
+"1778","Transportation and utilities","Women",0,2018
+"1779","Transportation and utilities","Women",5000,2018
+"1780","Transportation and utilities","Women",20000,2018
+"1781","Transportation and utilities","Women",57000,2018
+"1782","Transportation and utilities","Women",648000,2018
+"1783","Information","Women",238000,2018
+"1784","Information","Women",406000,2018
+"1785","Information","Women",1000,2018
+"1786","Information","Women",28000,2018
+"1787","Information","Women",141000,2018
+"1788","Information","Women",267000,2018
+"1789","Information","Women",0,2018
+"1790","Information","Women",0,2018
+"1791","Information","Women",20000,2018
+"1792","Information","Women",10000,2018
+"1793","Information","Women",7000,2018
+"1794","Financial activities","Women",2226000,2018
+"1795","Financial activities","Women",391000,2018
+"1796","Financial activities","Women",18000,2018
+"1797","Financial activities","Women",85000,2018
+"1798","Financial activities","Women",1197000,2018
+"1799","Financial activities","Women",1632000,2018
+"1800","Financial activities","Women",0,2018
+"1801","Financial activities","Women",6000,2018
+"1802","Financial activities","Women",9000,2018
+"1803","Financial activities","Women",20000,2018
+"1804","Financial activities","Women",15000,2018
+"1805","Professional and business services","Women",2110000,2018
+"1806","Professional and business services","Women",2362000,2018
+"1807","Professional and business services","Women",156000,2018
+"1808","Professional and business services","Women",1077000,2018
+"1809","Professional and business services","Women",3e+05,2018
+"1810","Professional and business services","Women",1619000,2018
+"1811","Professional and business services","Women",3000,2018
+"1812","Professional and business services","Women",12000,2018
+"1813","Professional and business services","Women",14000,2018
+"1814","Professional and business services","Women",105000,2018
+"1815","Professional and business services","Women",114000,2018
+"1816","Education and health services","Women",2245000,2018
+"1817","Education and health services","Women",14388000,2018
+"1818","Education and health services","Women",53000,2018
+"1819","Education and health services","Women",5838000,2018
+"1820","Education and health services","Women",82000,2018
+"1821","Education and health services","Women",3152000,2018
+"1822","Education and health services","Women",2000,2018
+"1823","Education and health services","Women",5000,2018
+"1824","Education and health services","Women",21000,2018
+"1825","Education and health services","Women",99000,2018
+"1826","Education and health services","Women",174000,2018
+"1827","Leisure and hospitality","Women",1011000,2018
+"1828","Leisure and hospitality","Women",414000,2018
+"1829","Leisure and hospitality","Women",60000,2018
+"1830","Leisure and hospitality","Women",4453000,2018
+"1831","Leisure and hospitality","Women",734000,2018
+"1832","Leisure and hospitality","Women",527000,2018
+"1833","Leisure and hospitality","Women",2000,2018
+"1834","Leisure and hospitality","Women",6000,2018
+"1835","Leisure and hospitality","Women",2000,2018
+"1836","Leisure and hospitality","Women",63000,2018
+"1837","Leisure and hospitality","Women",75000,2018
+"1838","Other services","Women",409000,2018
+"1839","Other services","Women",431000,2018
+"1840","Other services","Women",12000,2018
+"1841","Other services","Women",2427000,2018
+"1842","Other services","Women",97000,2018
+"1843","Other services","Women",563000,2018
+"1844","Other services","Women",1000,2018
+"1845","Other services","Women",0,2018
+"1846","Other services","Women",37000,2018
+"1847","Other services","Women",134000,2018
+"1848","Other services","Women",38000,2018
+"1849","Other services, except private households","Women",407000,2018
+"1850","Other services, except private households","Women",425000,2018
+"1851","Other services, except private households","Women",12000,2018
+"1852","Other services, except private households","Women",1715000,2018
+"1853","Other services, except private households","Women",97000,2018
+"1854","Other services, except private households","Women",561000,2018
+"1855","Other services, except private households","Women",1000,2018
+"1856","Other services, except private households","Women",0,2018
+"1857","Other services, except private households","Women",37000,2018
+"1858","Other services, except private households","Women",133000,2018
+"1859","Other services, except private households","Women",36000,2018
+"1860","Private households","Women",2000,2018
+"1861","Private households","Women",6000,2018
+"1862","Private households","Women",0,2018
+"1863","Private households","Women",712000,2018
+"1864","Private households","Women",0,2018
+"1865","Private households","Women",2000,2018
+"1866","Private households","Women",0,2018
+"1867","Private households","Women",0,2018
+"1868","Private households","Women",0,2018
+"1869","Private households","Women",1000,2018
+"1870","Private households","Women",1000,2018
+"1871","Public administration","Women",765000,2018
+"1872","Public administration","Women",981000,2018
+"1873","Public administration","Women",380000,2018
+"1874","Public administration","Women",232000,2018
+"1875","Public administration","Women",20000,2018
+"1876","Public administration","Women",957000,2018
+"1877","Public administration","Women",8000,2018
+"1878","Public administration","Women",7000,2018
+"1879","Public administration","Women",6000,2018
+"1880","Public administration","Women",20000,2018
+"1881","Public administration","Women",20000,2018
+"1882","Agriculture and related","TOTAL",1056000,2017
+"1883","Agriculture and related","TOTAL",52000,2017
+"1884","Agriculture and related","TOTAL",14000,2017
+"1885","Agriculture and related","TOTAL",77000,2017
+"1886","Agriculture and related","TOTAL",18000,2017
+"1887","Agriculture and related","TOTAL",80000,2017
+"1888","Agriculture and related","TOTAL",1001000,2017
+"1889","Agriculture and related","TOTAL",11000,2017
+"1890","Agriculture and related","TOTAL",30000,2017
+"1891","Agriculture and related","TOTAL",24000,2017
+"1892","Agriculture and related","TOTAL",90000,2017
+"1893","Mining, quarrying, and
+oil and gas extraction","TOTAL",146000,2017
+"1894","Mining, quarrying, and
+oil and gas extraction","TOTAL",111000,2017
+"1895","Mining, quarrying, and
+oil and gas extraction","TOTAL",4000,2017
+"1896","Mining, quarrying, and
+oil and gas extraction","TOTAL",5000,2017
+"1897","Mining, quarrying, and
+oil and gas extraction","TOTAL",11000,2017
+"1898","Mining, quarrying, and
+oil and gas extraction","TOTAL",52000,2017
+"1899","Mining, quarrying, and
+oil and gas extraction","TOTAL",1000,2017
+"1900","Mining, quarrying, and
+oil and gas extraction","TOTAL",235000,2017
+"1901","Mining, quarrying, and
+oil and gas extraction","TOTAL",55000,2017
+"1902","Mining, quarrying, and
+oil and gas extraction","TOTAL",47000,2017
+"1903","Mining, quarrying, and
+oil and gas extraction","TOTAL",81000,2017
+"1904","Construction","TOTAL",1984000,2017
+"1905","Construction","TOTAL",265000,2017
+"1906","Construction","TOTAL",15000,2017
+"1907","Construction","TOTAL",47000,2017
+"1908","Construction","TOTAL",111000,2017
+"1909","Construction","TOTAL",492000,2017
+"1910","Construction","TOTAL",5000,2017
+"1911","Construction","TOTAL",6769000,2017
+"1912","Construction","TOTAL",612000,2017
+"1913","Construction","TOTAL",161000,2017
+"1914","Construction","TOTAL",232000,2017
+"1915","Manufacturing","TOTAL",2645000,2017
+"1916","Manufacturing","TOTAL",2255000,2017
+"1917","Manufacturing","TOTAL",36000,2017
+"1918","Manufacturing","TOTAL",215000,2017
+"1919","Manufacturing","TOTAL",608000,2017
+"1920","Manufacturing","TOTAL",1292000,2017
+"1921","Manufacturing","TOTAL",61000,2017
+"1922","Manufacturing","TOTAL",304000,2017
+"1923","Manufacturing","TOTAL",675000,2017
+"1924","Manufacturing","TOTAL",6078000,2017
+"1925","Manufacturing","TOTAL",1239000,2017
+"1926","Durable goods","TOTAL",1692000,2017
+"1927","Durable goods","TOTAL",1624000,2017
+"1928","Durable goods","TOTAL",25000,2017
+"1929","Durable goods","TOTAL",89000,2017
+"1930","Durable goods","TOTAL",296000,2017
+"1931","Durable goods","TOTAL",823000,2017
+"1932","Durable goods","TOTAL",5000,2017
+"1933","Durable goods","TOTAL",234000,2017
+"1934","Durable goods","TOTAL",434000,2017
+"1935","Durable goods","TOTAL",3823000,2017
+"1936","Durable goods","TOTAL",654000,2017
+"1937","Nondurable goods","TOTAL",952000,2017
+"1938","Nondurable goods","TOTAL",630000,2017
+"1939","Nondurable goods","TOTAL",12000,2017
+"1940","Nondurable goods","TOTAL",126000,2017
+"1941","Nondurable goods","TOTAL",312000,2017
+"1942","Nondurable goods","TOTAL",469000,2017
+"1943","Nondurable goods","TOTAL",56000,2017
+"1944","Nondurable goods","TOTAL",71000,2017
+"1945","Nondurable goods","TOTAL",241000,2017
+"1946","Nondurable goods","TOTAL",2255000,2017
+"1947","Nondurable goods","TOTAL",585000,2017
+"1948","Wholesale and retail trade","TOTAL",1497000,2017
+"1949","Wholesale and retail trade","TOTAL",1209000,2017
+"1950","Wholesale and retail trade","TOTAL",69000,2017
+"1951","Wholesale and retail trade","TOTAL",669000,2017
+"1952","Wholesale and retail trade","TOTAL",10129000,2017
+"1953","Wholesale and retail trade","TOTAL",3318000,2017
+"1954","Wholesale and retail trade","TOTAL",62000,2017
+"1955","Wholesale and retail trade","TOTAL",96000,2017
+"1956","Wholesale and retail trade","TOTAL",709000,2017
+"1957","Wholesale and retail trade","TOTAL",579000,2017
+"1958","Wholesale and retail trade","TOTAL",1977000,2017
+"1959","Wholesale trade","TOTAL",513000,2017
+"1960","Wholesale trade","TOTAL",173000,2017
+"1961","Wholesale trade","TOTAL",3000,2017
+"1962","Wholesale trade","TOTAL",34000,2017
+"1963","Wholesale trade","TOTAL",1304000,2017
+"1964","Wholesale trade","TOTAL",542000,2017
+"1965","Wholesale trade","TOTAL",52000,2017
+"1966","Wholesale trade","TOTAL",22000,2017
+"1967","Wholesale trade","TOTAL",126000,2017
+"1968","Wholesale trade","TOTAL",122000,2017
+"1969","Wholesale trade","TOTAL",701000,2017
+"1970","Retail trade","TOTAL",984000,2017
+"1971","Retail trade","TOTAL",1036000,2017
+"1972","Retail trade","TOTAL",66000,2017
+"1973","Retail trade","TOTAL",636000,2017
+"1974","Retail trade","TOTAL",8824000,2017
+"1975","Retail trade","TOTAL",2776000,2017
+"1976","Retail trade","TOTAL",10000,2017
+"1977","Retail trade","TOTAL",73000,2017
+"1978","Retail trade","TOTAL",582000,2017
+"1979","Retail trade","TOTAL",456000,2017
+"1980","Retail trade","TOTAL",1276000,2017
+"1981","Transportation and utilities","TOTAL",876000,2017
+"1982","Transportation and utilities","TOTAL",379000,2017
+"1983","Transportation and utilities","TOTAL",34000,2017
+"1984","Transportation and utilities","TOTAL",152000,2017
+"1985","Transportation and utilities","TOTAL",123000,2017
+"1986","Transportation and utilities","TOTAL",1653000,2017
+"1987","Transportation and utilities","TOTAL",4000,2017
+"1988","Transportation and utilities","TOTAL",176000,2017
+"1989","Transportation and utilities","TOTAL",543000,2017
+"1990","Transportation and utilities","TOTAL",373000,2017
+"1991","Transportation and utilities","TOTAL",3847000,2017
+"1992","Information","TOTAL",564000,2017
+"1993","Information","TOTAL",1134000,2017
+"1994","Information","TOTAL",6000,2017
+"1995","Information","TOTAL",72000,2017
+"1996","Information","TOTAL",330000,2017
+"1997","Information","TOTAL",428000,2017
+"1998","Information","TOTAL",0,2017
+"1999","Information","TOTAL",13000,2017
+"2000","Information","TOTAL",279000,2017
+"2001","Information","TOTAL",40000,2017
+"2002","Information","TOTAL",37000,2017
+"2003","Financial activities","TOTAL",4398000,2017
+"2004","Financial activities","TOTAL",907000,2017
+"2005","Financial activities","TOTAL",62000,2017
+"2006","Financial activities","TOTAL",326000,2017
+"2007","Financial activities","TOTAL",2284000,2017
+"2008","Financial activities","TOTAL",2112000,2017
+"2009","Financial activities","TOTAL",0,2017
+"2010","Financial activities","TOTAL",49000,2017
+"2011","Financial activities","TOTAL",186000,2017
+"2012","Financial activities","TOTAL",41000,2017
+"2013","Financial activities","TOTAL",116000,2017
+"2014","Professional and business services","TOTAL",4841000,2017
+"2015","Professional and business services","TOTAL",6129000,2017
+"2016","Professional and business services","TOTAL",557000,2017
+"2017","Professional and business services","TOTAL",3040000,2017
+"2018","Professional and business services","TOTAL",644000,2017
+"2019","Professional and business services","TOTAL",2279000,2017
+"2020","Professional and business services","TOTAL",18000,2017
+"2021","Professional and business services","TOTAL",131000,2017
+"2022","Professional and business services","TOTAL",303000,2017
+"2023","Professional and business services","TOTAL",311000,2017
+"2024","Professional and business services","TOTAL",585000,2017
+"2025","Education and health services","TOTAL",3308000,2017
+"2026","Education and health services","TOTAL",19295000,2017
+"2027","Education and health services","TOTAL",182000,2017
+"2028","Education and health services","TOTAL",7172000,2017
+"2029","Education and health services","TOTAL",1e+05,2017
+"2030","Education and health services","TOTAL",3539000,2017
+"2031","Education and health services","TOTAL",4000,2017
+"2032","Education and health services","TOTAL",83000,2017
+"2033","Education and health services","TOTAL",201000,2017
+"2034","Education and health services","TOTAL",168000,2017
+"2035","Education and health services","TOTAL",432000,2017
+"2036","Leisure and hospitality","TOTAL",2018000,2017
+"2037","Leisure and hospitality","TOTAL",998000,2017
+"2038","Leisure and hospitality","TOTAL",201000,2017
+"2039","Leisure and hospitality","TOTAL",8666000,2017
+"2040","Leisure and hospitality","TOTAL",1042000,2017
+"2041","Leisure and hospitality","TOTAL",708000,2017
+"2042","Leisure and hospitality","TOTAL",5000,2017
+"2043","Leisure and hospitality","TOTAL",37000,2017
+"2044","Leisure and hospitality","TOTAL",110000,2017
+"2045","Leisure and hospitality","TOTAL",139000,2017
+"2046","Leisure and hospitality","TOTAL",367000,2017
+"2047","Other services","TOTAL",695000,2017
+"2048","Other services","TOTAL",976000,2017
+"2049","Other services","TOTAL",27000,2017
+"2050","Other services","TOTAL",2871000,2017
+"2051","Other services","TOTAL",385000,2017
+"2052","Other services","TOTAL",603000,2017
+"2053","Other services","TOTAL",2000,2017
+"2054","Other services","TOTAL",24000,2017
+"2055","Other services","TOTAL",1110000,2017
+"2056","Other services","TOTAL",442000,2017
+"2057","Other services","TOTAL",349000,2017
+"2058","Other services, except private households","TOTAL",688000,2017
+"2059","Other services, except private households","TOTAL",970000,2017
+"2060","Other services, except private households","TOTAL",27000,2017
+"2061","Other services, except private households","TOTAL",2241000,2017
+"2062","Other services, except private households","TOTAL",385000,2017
+"2063","Other services, except private households","TOTAL",599000,2017
+"2064","Other services, except private households","TOTAL",2000,2017
+"2065","Other services, except private households","TOTAL",23000,2017
+"2066","Other services, except private households","TOTAL",1110000,2017
+"2067","Other services, except private households","TOTAL",442000,2017
+"2068","Other services, except private households","TOTAL",340000,2017
+"2069","Private households","TOTAL",7000,2017
+"2070","Private households","TOTAL",6000,2017
+"2071","Private households","TOTAL",0,2017
+"2072","Private households","TOTAL",630000,2017
+"2073","Private households","TOTAL",0,2017
+"2074","Private households","TOTAL",4000,2017
+"2075","Private households","TOTAL",0,2017
+"2076","Private households","TOTAL",1000,2017
+"2077","Private households","TOTAL",0,2017
+"2078","Private households","TOTAL",0,2017
+"2079","Private households","TOTAL",8000,2017
+"2080","Public administration","TOTAL",1351000,2017
+"2081","Public administration","TOTAL",1812000,2017
+"2082","Public administration","TOTAL",1905000,2017
+"2083","Public administration","TOTAL",325000,2017
+"2084","Public administration","TOTAL",31000,2017
+"2085","Public administration","TOTAL",1195000,2017
+"2086","Public administration","TOTAL",21000,2017
+"2087","Public administration","TOTAL",105000,2017
+"2088","Public administration","TOTAL",165000,2017
+"2089","Public administration","TOTAL",80000,2017
+"2090","Public administration","TOTAL",94000,2017
+"2091","Agriculture and related","Men",778000,2017
+"2092","Agriculture and related","Men",38000,2017
+"2093","Agriculture and related","Men",12000,2017
+"2094","Agriculture and related","Men",48000,2017
+"2095","Agriculture and related","Men",13000,2017
+"2096","Agriculture and related","Men",13000,2017
+"2097","Agriculture and related","Men",801000,2017
+"2098","Agriculture and related","Men",11000,2017
+"2099","Agriculture and related","Men",30000,2017
+"2100","Agriculture and related","Men",20000,2017
+"2101","Agriculture and related","Men",78000,2017
+"2102","Mining, quarrying, and
+oil and gas extraction","Men",119000,2017
+"2103","Mining, quarrying, and
+oil and gas extraction","Men",86000,2017
+"2104","Mining, quarrying, and
+oil and gas extraction","Men",4000,2017
+"2105","Mining, quarrying, and
+oil and gas extraction","Men",4000,2017
+"2106","Mining, quarrying, and
+oil and gas extraction","Men",9000,2017
+"2107","Mining, quarrying, and
+oil and gas extraction","Men",21000,2017
+"2108","Mining, quarrying, and
+oil and gas extraction","Men",1000,2017
+"2109","Mining, quarrying, and
+oil and gas extraction","Men",231000,2017
+"2110","Mining, quarrying, and
+oil and gas extraction","Men",54000,2017
+"2111","Mining, quarrying, and
+oil and gas extraction","Men",46000,2017
+"2112","Mining, quarrying, and
+oil and gas extraction","Men",80000,2017
+"2113","Construction","Men",1732000,2017
+"2114","Construction","Men",210000,2017
+"2115","Construction","Men",13000,2017
+"2116","Construction","Men",38000,2017
+"2117","Construction","Men",90000,2017
+"2118","Construction","Men",70000,2017
+"2119","Construction","Men",5000,2017
+"2120","Construction","Men",6576000,2017
+"2121","Construction","Men",603000,2017
+"2122","Construction","Men",158000,2017
+"2123","Construction","Men",225000,2017
+"2124","Manufacturing","Men",1774000,2017
+"2125","Manufacturing","Men",1745000,2017
+"2126","Manufacturing","Men",29000,2017
+"2127","Manufacturing","Men",135000,2017
+"2128","Manufacturing","Men",383000,2017
+"2129","Manufacturing","Men",509000,2017
+"2130","Manufacturing","Men",26000,2017
+"2131","Manufacturing","Men",294000,2017
+"2132","Manufacturing","Men",642000,2017
+"2133","Manufacturing","Men",4323000,2017
+"2134","Manufacturing","Men",995000,2017
+"2135","Durable goods","Men",1189000,2017
+"2136","Durable goods","Men",1328000,2017
+"2137","Durable goods","Men",19000,2017
+"2138","Durable goods","Men",60000,2017
+"2139","Durable goods","Men",219000,2017
+"2140","Durable goods","Men",325000,2017
+"2141","Durable goods","Men",5000,2017
+"2142","Durable goods","Men",228000,2017
+"2143","Durable goods","Men",409000,2017
+"2144","Durable goods","Men",2906000,2017
+"2145","Durable goods","Men",548000,2017
+"2146","Nondurable goods","Men",585000,2017
+"2147","Nondurable goods","Men",418000,2017
+"2148","Nondurable goods","Men",9000,2017
+"2149","Nondurable goods","Men",75000,2017
+"2150","Nondurable goods","Men",164000,2017
+"2151","Nondurable goods","Men",184000,2017
+"2152","Nondurable goods","Men",22000,2017
+"2153","Nondurable goods","Men",66000,2017
+"2154","Nondurable goods","Men",234000,2017
+"2155","Nondurable goods","Men",1418000,2017
+"2156","Nondurable goods","Men",448000,2017
+"2157","Wholesale and retail trade","Men",833000,2017
+"2158","Wholesale and retail trade","Men",519000,2017
+"2159","Wholesale and retail trade","Men",48000,2017
+"2160","Wholesale and retail trade","Men",316000,2017
+"2161","Wholesale and retail trade","Men",5195000,2017
+"2162","Wholesale and retail trade","Men",1460000,2017
+"2163","Wholesale and retail trade","Men",32000,2017
+"2164","Wholesale and retail trade","Men",91000,2017
+"2165","Wholesale and retail trade","Men",679000,2017
+"2166","Wholesale and retail trade","Men",374000,2017
+"2167","Wholesale and retail trade","Men",1630000,2017
+"2168","Wholesale trade","Men",324000,2017
+"2169","Wholesale trade","Men",112000,2017
+"2170","Wholesale trade","Men",3000,2017
+"2171","Wholesale trade","Men",22000,2017
+"2172","Wholesale trade","Men",963000,2017
+"2173","Wholesale trade","Men",234000,2017
+"2174","Wholesale trade","Men",26000,2017
+"2175","Wholesale trade","Men",22000,2017
+"2176","Wholesale trade","Men",122000,2017
+"2177","Wholesale trade","Men",81000,2017
+"2178","Wholesale trade","Men",610000,2017
+"2179","Retail trade","Men",509000,2017
+"2180","Retail trade","Men",407000,2017
+"2181","Retail trade","Men",45000,2017
+"2182","Retail trade","Men",293000,2017
+"2183","Retail trade","Men",4231000,2017
+"2184","Retail trade","Men",1226000,2017
+"2185","Retail trade","Men",6000,2017
+"2186","Retail trade","Men",68000,2017
+"2187","Retail trade","Men",557000,2017
+"2188","Retail trade","Men",293000,2017
+"2189","Retail trade","Men",1020000,2017
+"2190","Transportation and utilities","Men",613000,2017
+"2191","Transportation and utilities","Men",287000,2017
+"2192","Transportation and utilities","Men",25000,2017
+"2193","Transportation and utilities","Men",90000,2017
+"2194","Transportation and utilities","Men",86000,2017
+"2195","Transportation and utilities","Men",801000,2017
+"2196","Transportation and utilities","Men",3000,2017
+"2197","Transportation and utilities","Men",174000,2017
+"2198","Transportation and utilities","Men",527000,2017
+"2199","Transportation and utilities","Men",334000,2017
+"2200","Transportation and utilities","Men",3263000,2017
+"2201","Information","Men",338000,2017
+"2202","Information","Men",736000,2017
+"2203","Information","Men",6000,2017
+"2204","Information","Men",34000,2017
+"2205","Information","Men",186000,2017
+"2206","Information","Men",135000,2017
+"2207","Information","Men",0,2017
+"2208","Information","Men",13000,2017
+"2209","Information","Men",268000,2017
+"2210","Information","Men",27000,2017
+"2211","Information","Men",30000,2017
+"2212","Financial activities","Men",2245000,2017
+"2213","Financial activities","Men",524000,2017
+"2214","Financial activities","Men",33000,2017
+"2215","Financial activities","Men",233000,2017
+"2216","Financial activities","Men",1131000,2017
+"2217","Financial activities","Men",431000,2017
+"2218","Financial activities","Men",0,2017
+"2219","Financial activities","Men",46000,2017
+"2220","Financial activities","Men",174000,2017
+"2221","Financial activities","Men",20000,2017
+"2222","Financial activities","Men",102000,2017
+"2223","Professional and business services","Men",2689000,2017
+"2224","Professional and business services","Men",3930000,2017
+"2225","Professional and business services","Men",413000,2017
+"2226","Professional and business services","Men",1839000,2017
+"2227","Professional and business services","Men",348000,2017
+"2228","Professional and business services","Men",539000,2017
+"2229","Professional and business services","Men",14000,2017
+"2230","Professional and business services","Men",121000,2017
+"2231","Professional and business services","Men",285000,2017
+"2232","Professional and business services","Men",219000,2017
+"2233","Professional and business services","Men",484000,2017
+"2234","Education and health services","Men",1125000,2017
+"2235","Education and health services","Men",5199000,2017
+"2236","Education and health services","Men",121000,2017
+"2237","Education and health services","Men",1430000,2017
+"2238","Education and health services","Men",29000,2017
+"2239","Education and health services","Men",341000,2017
+"2240","Education and health services","Men",3000,2017
+"2241","Education and health services","Men",76000,2017
+"2242","Education and health services","Men",183000,2017
+"2243","Education and health services","Men",67000,2017
+"2244","Education and health services","Men",231000,2017
+"2245","Leisure and hospitality","Men",1035000,2017
+"2246","Leisure and hospitality","Men",557000,2017
+"2247","Leisure and hospitality","Men",140000,2017
+"2248","Leisure and hospitality","Men",4238000,2017
+"2249","Leisure and hospitality","Men",280000,2017
+"2250","Leisure and hospitality","Men",232000,2017
+"2251","Leisure and hospitality","Men",4000,2017
+"2252","Leisure and hospitality","Men",33000,2017
+"2253","Leisure and hospitality","Men",104000,2017
+"2254","Leisure and hospitality","Men",70000,2017
+"2255","Leisure and hospitality","Men",301000,2017
+"2256","Other services","Men",295000,2017
+"2257","Other services","Men",553000,2017
+"2258","Other services","Men",20000,2017
+"2259","Other services","Men",666000,2017
+"2260","Other services","Men",277000,2017
+"2261","Other services","Men",80000,2017
+"2262","Other services","Men",2000,2017
+"2263","Other services","Men",24000,2017
+"2264","Other services","Men",1075000,2017
+"2265","Other services","Men",310000,2017
+"2266","Other services","Men",315000,2017
+"2267","Other services, except private households","Men",294000,2017
+"2268","Other services, except private households","Men",551000,2017
+"2269","Other services, except private households","Men",20000,2017
+"2270","Other services, except private households","Men",624000,2017
+"2271","Other services, except private households","Men",277000,2017
+"2272","Other services, except private households","Men",80000,2017
+"2273","Other services, except private households","Men",2000,2017
+"2274","Other services, except private households","Men",23000,2017
+"2275","Other services, except private households","Men",1075000,2017
+"2276","Other services, except private households","Men",310000,2017
+"2277","Other services, except private households","Men",307000,2017
+"2278","Private households","Men",1000,2017
+"2279","Private households","Men",2000,2017
+"2280","Private households","Men",0,2017
+"2281","Private households","Men",42000,2017
+"2282","Private households","Men",0,2017
+"2283","Private households","Men",0,2017
+"2284","Private households","Men",0,2017
+"2285","Private households","Men",1000,2017
+"2286","Private households","Men",0,2017
+"2287","Private households","Men",0,2017
+"2288","Private households","Men",8000,2017
+"2289","Public administration","Men",630000,2017
+"2290","Public administration","Men",896000,2017
+"2291","Public administration","Men",1556000,2017
+"2292","Public administration","Men",132000,2017
+"2293","Public administration","Men",17000,2017
+"2294","Public administration","Men",295000,2017
+"2295","Public administration","Men",15000,2017
+"2296","Public administration","Men",99000,2017
+"2297","Public administration","Men",154000,2017
+"2298","Public administration","Men",63000,2017
+"2299","Public administration","Men",80000,2017
+"2300","Agriculture and related","Women",278000,2017
+"2301","Agriculture and related","Women",14000,2017
+"2302","Agriculture and related","Women",2000,2017
+"2303","Agriculture and related","Women",29000,2017
+"2304","Agriculture and related","Women",5000,2017
+"2305","Agriculture and related","Women",68000,2017
+"2306","Agriculture and related","Women",2e+05,2017
+"2307","Agriculture and related","Women",0,2017
+"2308","Agriculture and related","Women",0,2017
+"2309","Agriculture and related","Women",4000,2017
+"2310","Agriculture and related","Women",11000,2017
+"2311","Mining, quarrying, and
+oil and gas extraction","Women",27000,2017
+"2312","Mining, quarrying, and
+oil and gas extraction","Women",25000,2017
+"2313","Mining, quarrying, and
+oil and gas extraction","Women",0,2017
+"2314","Mining, quarrying, and
+oil and gas extraction","Women",1000,2017
+"2315","Mining, quarrying, and
+oil and gas extraction","Women",1000,2017
+"2316","Mining, quarrying, and
+oil and gas extraction","Women",31000,2017
+"2317","Mining, quarrying, and
+oil and gas extraction","Women",0,2017
+"2318","Mining, quarrying, and
+oil and gas extraction","Women",5000,2017
+"2319","Mining, quarrying, and
+oil and gas extraction","Women",1000,2017
+"2320","Mining, quarrying, and
+oil and gas extraction","Women",1000,2017
+"2321","Mining, quarrying, and
+oil and gas extraction","Women",1000,2017
+"2322","Construction","Women",252000,2017
+"2323","Construction","Women",56000,2017
+"2324","Construction","Women",2000,2017
+"2325","Construction","Women",9000,2017
+"2326","Construction","Women",21000,2017
+"2327","Construction","Women",421000,2017
+"2328","Construction","Women",0,2017
+"2329","Construction","Women",192000,2017
+"2330","Construction","Women",9000,2017
+"2331","Construction","Women",3000,2017
+"2332","Construction","Women",7000,2017
+"2333","Manufacturing","Women",871000,2017
+"2334","Manufacturing","Women",509000,2017
+"2335","Manufacturing","Women",8000,2017
+"2336","Manufacturing","Women",81000,2017
+"2337","Manufacturing","Women",224000,2017
+"2338","Manufacturing","Women",783000,2017
+"2339","Manufacturing","Women",35000,2017
+"2340","Manufacturing","Women",10000,2017
+"2341","Manufacturing","Women",32000,2017
+"2342","Manufacturing","Women",1755000,2017
+"2343","Manufacturing","Women",243000,2017
+"2344","Durable goods","Women",503000,2017
+"2345","Durable goods","Women",296000,2017
+"2346","Durable goods","Women",5000,2017
+"2347","Durable goods","Women",30000,2017
+"2348","Durable goods","Women",76000,2017
+"2349","Durable goods","Women",498000,2017
+"2350","Durable goods","Women",1000,2017
+"2351","Durable goods","Women",5000,2017
+"2352","Durable goods","Women",25000,2017
+"2353","Durable goods","Women",917000,2017
+"2354","Durable goods","Women",106000,2017
+"2355","Nondurable goods","Women",368000,2017
+"2356","Nondurable goods","Women",213000,2017
+"2357","Nondurable goods","Women",3000,2017
+"2358","Nondurable goods","Women",51000,2017
+"2359","Nondurable goods","Women",148000,2017
+"2360","Nondurable goods","Women",285000,2017
+"2361","Nondurable goods","Women",35000,2017
+"2362","Nondurable goods","Women",4000,2017
+"2363","Nondurable goods","Women",7000,2017
+"2364","Nondurable goods","Women",837000,2017
+"2365","Nondurable goods","Women",137000,2017
+"2366","Wholesale and retail trade","Women",664000,2017
+"2367","Wholesale and retail trade","Women",689000,2017
+"2368","Wholesale and retail trade","Women",21000,2017
+"2369","Wholesale and retail trade","Women",354000,2017
+"2370","Wholesale and retail trade","Women",4934000,2017
+"2371","Wholesale and retail trade","Women",1858000,2017
+"2372","Wholesale and retail trade","Women",29000,2017
+"2373","Wholesale and retail trade","Women",5000,2017
+"2374","Wholesale and retail trade","Women",30000,2017
+"2375","Wholesale and retail trade","Women",205000,2017
+"2376","Wholesale and retail trade","Women",347000,2017
+"2377","Wholesale trade","Women",189000,2017
+"2378","Wholesale trade","Women",61000,2017
+"2379","Wholesale trade","Women",1000,2017
+"2380","Wholesale trade","Women",11000,2017
+"2381","Wholesale trade","Women",341000,2017
+"2382","Wholesale trade","Women",308000,2017
+"2383","Wholesale trade","Women",25000,2017
+"2384","Wholesale trade","Women",0,2017
+"2385","Wholesale trade","Women",5000,2017
+"2386","Wholesale trade","Women",41000,2017
+"2387","Wholesale trade","Women",91000,2017
+"2388","Retail trade","Women",476000,2017
+"2389","Retail trade","Women",628000,2017
+"2390","Retail trade","Women",21000,2017
+"2391","Retail trade","Women",342000,2017
+"2392","Retail trade","Women",4593000,2017
+"2393","Retail trade","Women",1550000,2017
+"2394","Retail trade","Women",4000,2017
+"2395","Retail trade","Women",5000,2017
+"2396","Retail trade","Women",25000,2017
+"2397","Retail trade","Women",164000,2017
+"2398","Retail trade","Women",256000,2017
+"2399","Transportation and utilities","Women",263000,2017
+"2400","Transportation and utilities","Women",92000,2017
+"2401","Transportation and utilities","Women",9000,2017
+"2402","Transportation and utilities","Women",62000,2017
+"2403","Transportation and utilities","Women",37000,2017
+"2404","Transportation and utilities","Women",851000,2017
+"2405","Transportation and utilities","Women",1000,2017
+"2406","Transportation and utilities","Women",2000,2017
+"2407","Transportation and utilities","Women",16000,2017
+"2408","Transportation and utilities","Women",39000,2017
+"2409","Transportation and utilities","Women",584000,2017
+"2410","Information","Women",226000,2017
+"2411","Information","Women",399000,2017
+"2412","Information","Women",0,2017
+"2413","Information","Women",39000,2017
+"2414","Information","Women",144000,2017
+"2415","Information","Women",293000,2017
+"2416","Information","Women",0,2017
+"2417","Information","Women",0,2017
+"2418","Information","Women",11000,2017
+"2419","Information","Women",13000,2017
+"2420","Information","Women",7000,2017
+"2421","Financial activities","Women",2153000,2017
+"2422","Financial activities","Women",383000,2017
+"2423","Financial activities","Women",29000,2017
+"2424","Financial activities","Women",93000,2017
+"2425","Financial activities","Women",1153000,2017
+"2426","Financial activities","Women",1681000,2017
+"2427","Financial activities","Women",0,2017
+"2428","Financial activities","Women",3000,2017
+"2429","Financial activities","Women",12000,2017
+"2430","Financial activities","Women",21000,2017
+"2431","Financial activities","Women",14000,2017
+"2432","Professional and business services","Women",2151000,2017
+"2433","Professional and business services","Women",2198000,2017
+"2434","Professional and business services","Women",144000,2017
+"2435","Professional and business services","Women",1201000,2017
+"2436","Professional and business services","Women",296000,2017
+"2437","Professional and business services","Women",1740000,2017
+"2438","Professional and business services","Women",3000,2017
+"2439","Professional and business services","Women",10000,2017
+"2440","Professional and business services","Women",18000,2017
+"2441","Professional and business services","Women",91000,2017
+"2442","Professional and business services","Women",101000,2017
+"2443","Education and health services","Women",2183000,2017
+"2444","Education and health services","Women",14096000,2017
+"2445","Education and health services","Women",61000,2017
+"2446","Education and health services","Women",5742000,2017
+"2447","Education and health services","Women",71000,2017
+"2448","Education and health services","Women",3198000,2017
+"2449","Education and health services","Women",1000,2017
+"2450","Education and health services","Women",7000,2017
+"2451","Education and health services","Women",18000,2017
+"2452","Education and health services","Women",101000,2017
+"2453","Education and health services","Women",201000,2017
+"2454","Leisure and hospitality","Women",983000,2017
+"2455","Leisure and hospitality","Women",441000,2017
+"2456","Leisure and hospitality","Women",61000,2017
+"2457","Leisure and hospitality","Women",4428000,2017
+"2458","Leisure and hospitality","Women",762000,2017
+"2459","Leisure and hospitality","Women",476000,2017
+"2460","Leisure and hospitality","Women",1000,2017
+"2461","Leisure and hospitality","Women",3000,2017
+"2462","Leisure and hospitality","Women",6000,2017
+"2463","Leisure and hospitality","Women",68000,2017
+"2464","Leisure and hospitality","Women",66000,2017
+"2465","Other services","Women",4e+05,2017
+"2466","Other services","Women",423000,2017
+"2467","Other services","Women",7000,2017
+"2468","Other services","Women",2206000,2017
+"2469","Other services","Women",108000,2017
+"2470","Other services","Women",524000,2017
+"2471","Other services","Women",0,2017
+"2472","Other services","Women",0,2017
+"2473","Other services","Women",35000,2017
+"2474","Other services","Women",131000,2017
+"2475","Other services","Women",33000,2017
+"2476","Other services, except private households","Women",394000,2017
+"2477","Other services, except private households","Women",419000,2017
+"2478","Other services, except private households","Women",7000,2017
+"2479","Other services, except private households","Women",1617000,2017
+"2480","Other services, except private households","Women",108000,2017
+"2481","Other services, except private households","Women",519000,2017
+"2482","Other services, except private households","Women",0,2017
+"2483","Other services, except private households","Women",0,2017
+"2484","Other services, except private households","Women",35000,2017
+"2485","Other services, except private households","Women",131000,2017
+"2486","Other services, except private households","Women",33000,2017
+"2487","Private households","Women",6000,2017
+"2488","Private households","Women",4000,2017
+"2489","Private households","Women",0,2017
+"2490","Private households","Women",588000,2017
+"2491","Private households","Women",0,2017
+"2492","Private households","Women",4000,2017
+"2493","Private households","Women",0,2017
+"2494","Private households","Women",0,2017
+"2495","Private households","Women",0,2017
+"2496","Private households","Women",0,2017
+"2497","Private households","Women",0,2017
+"2498","Public administration","Women",721000,2017
+"2499","Public administration","Women",916000,2017
+"2500","Public administration","Women",350000,2017
+"2501","Public administration","Women",193000,2017
+"2502","Public administration","Women",15000,2017
+"2503","Public administration","Women",899000,2017
+"2504","Public administration","Women",6000,2017
+"2505","Public administration","Women",6000,2017
+"2506","Public administration","Women",11000,2017
+"2507","Public administration","Women",17000,2017
+"2508","Public administration","Women",14000,2017
+"2509","Agriculture and related","TOTAL",1083000,2016
+"2510","Agriculture and related","TOTAL",53000,2016
+"2511","Agriculture and related","TOTAL",14000,2016
+"2512","Agriculture and related","TOTAL",95000,2016
+"2513","Agriculture and related","TOTAL",15000,2016
+"2514","Agriculture and related","TOTAL",88000,2016
+"2515","Agriculture and related","TOTAL",945000,2016
+"2516","Agriculture and related","TOTAL",11000,2016
+"2517","Agriculture and related","TOTAL",38000,2016
+"2518","Agriculture and related","TOTAL",36000,2016
+"2519","Agriculture and related","TOTAL",84000,2016
+"2520","Mining, quarrying, and oil and gas extraction","TOTAL",157000,2016
+"2521","Mining, quarrying, and oil and gas extraction","TOTAL",134000,2016
+"2522","Mining, quarrying, and oil and gas extraction","TOTAL",2000,2016
+"2523","Mining, quarrying, and oil and gas extraction","TOTAL",8000,2016
+"2524","Mining, quarrying, and oil and gas extraction","TOTAL",13000,2016
+"2525","Mining, quarrying, and oil and gas extraction","TOTAL",49000,2016
+"2526","Mining, quarrying, and oil and gas extraction","TOTAL",0,2016
+"2527","Mining, quarrying, and oil and gas extraction","TOTAL",231000,2016
+"2528","Mining, quarrying, and oil and gas extraction","TOTAL",52000,2016
+"2529","Mining, quarrying, and oil and gas extraction","TOTAL",62000,2016
+"2530","Mining, quarrying, and oil and gas extraction","TOTAL",84000,2016
+"2531","Construction","TOTAL",1784000,2016
+"2532","Construction","TOTAL",266000,2016
+"2533","Construction","TOTAL",13000,2016
+"2534","Construction","TOTAL",58000,2016
+"2535","Construction","TOTAL",103000,2016
+"2536","Construction","TOTAL",483000,2016
+"2537","Construction","TOTAL",3000,2016
+"2538","Construction","TOTAL",6657000,2016
+"2539","Construction","TOTAL",559000,2016
+"2540","Construction","TOTAL",151000,2016
+"2541","Construction","TOTAL",252000,2016
+"2542","Manufacturing","TOTAL",2673000,2016
+"2543","Manufacturing","TOTAL",2187000,2016
+"2544","Manufacturing","TOTAL",29000,2016
+"2545","Manufacturing","TOTAL",233000,2016
+"2546","Manufacturing","TOTAL",639000,2016
+"2547","Manufacturing","TOTAL",1296000,2016
+"2548","Manufacturing","TOTAL",59000,2016
+"2549","Manufacturing","TOTAL",303000,2016
+"2550","Manufacturing","TOTAL",634000,2016
+"2551","Manufacturing","TOTAL",6098000,2016
+"2552","Manufacturing","TOTAL",1258000,2016
+"2553","Durable goods","TOTAL",1731000,2016
+"2554","Durable goods","TOTAL",1594000,2016
+"2555","Durable goods","TOTAL",16000,2016
+"2556","Durable goods","TOTAL",92000,2016
+"2557","Durable goods","TOTAL",324000,2016
+"2558","Durable goods","TOTAL",789000,2016
+"2559","Durable goods","TOTAL",6000,2016
+"2560","Durable goods","TOTAL",240000,2016
+"2561","Durable goods","TOTAL",411000,2016
+"2562","Durable goods","TOTAL",3828000,2016
+"2563","Durable goods","TOTAL",674000,2016
+"2564","Nondurable goods","TOTAL",942000,2016
+"2565","Nondurable goods","TOTAL",593000,2016
+"2566","Nondurable goods","TOTAL",14000,2016
+"2567","Nondurable goods","TOTAL",142000,2016
+"2568","Nondurable goods","TOTAL",315000,2016
+"2569","Nondurable goods","TOTAL",507000,2016
+"2570","Nondurable goods","TOTAL",53000,2016
+"2571","Nondurable goods","TOTAL",63000,2016
+"2572","Nondurable goods","TOTAL",223000,2016
+"2573","Nondurable goods","TOTAL",2270000,2016
+"2574","Nondurable goods","TOTAL",584000,2016
+"2575","Wholesale and retail trade","TOTAL",1565000,2016
+"2576","Wholesale and retail trade","TOTAL",1145000,2016
+"2577","Wholesale and retail trade","TOTAL",68000,2016
+"2578","Wholesale and retail trade","TOTAL",701000,2016
+"2579","Wholesale and retail trade","TOTAL",10209000,2016
+"2580","Wholesale and retail trade","TOTAL",3229000,2016
+"2581","Wholesale and retail trade","TOTAL",43000,2016
+"2582","Wholesale and retail trade","TOTAL",89000,2016
+"2583","Wholesale and retail trade","TOTAL",750000,2016
+"2584","Wholesale and retail trade","TOTAL",543000,2016
+"2585","Wholesale and retail trade","TOTAL",1877000,2016
+"2586","Wholesale trade","TOTAL",575000,2016
+"2587","Wholesale trade","TOTAL",167000,2016
+"2588","Wholesale trade","TOTAL",3000,2016
+"2589","Wholesale trade","TOTAL",39000,2016
+"2590","Wholesale trade","TOTAL",1337000,2016
+"2591","Wholesale trade","TOTAL",569000,2016
+"2592","Wholesale trade","TOTAL",33000,2016
+"2593","Wholesale trade","TOTAL",21000,2016
+"2594","Wholesale trade","TOTAL",130000,2016
+"2595","Wholesale trade","TOTAL",101000,2016
+"2596","Wholesale trade","TOTAL",666000,2016
+"2597","Retail trade","TOTAL",990000,2016
+"2598","Retail trade","TOTAL",979000,2016
+"2599","Retail trade","TOTAL",65000,2016
+"2600","Retail trade","TOTAL",662000,2016
+"2601","Retail trade","TOTAL",8871000,2016
+"2602","Retail trade","TOTAL",2660000,2016
+"2603","Retail trade","TOTAL",10000,2016
+"2604","Retail trade","TOTAL",68000,2016
+"2605","Retail trade","TOTAL",621000,2016
+"2606","Retail trade","TOTAL",441000,2016
+"2607","Retail trade","TOTAL",1211000,2016
+"2608","Transportation and utilities","TOTAL",857000,2016
+"2609","Transportation and utilities","TOTAL",358000,2016
+"2610","Transportation and utilities","TOTAL",28000,2016
+"2611","Transportation and utilities","TOTAL",127000,2016
+"2612","Transportation and utilities","TOTAL",95000,2016
+"2613","Transportation and utilities","TOTAL",1674000,2016
+"2614","Transportation and utilities","TOTAL",1000,2016
+"2615","Transportation and utilities","TOTAL",187000,2016
+"2616","Transportation and utilities","TOTAL",518000,2016
+"2617","Transportation and utilities","TOTAL",330000,2016
+"2618","Transportation and utilities","TOTAL",3838000,2016
+"2619","Information","TOTAL",608000,2016
+"2620","Information","TOTAL",1077000,2016
+"2621","Information","TOTAL",6000,2016
+"2622","Information","TOTAL",76000,2016
+"2623","Information","TOTAL",337000,2016
+"2624","Information","TOTAL",401000,2016
+"2625","Information","TOTAL",0,2016
+"2626","Information","TOTAL",8000,2016
+"2627","Information","TOTAL",266000,2016
+"2628","Information","TOTAL",33000,2016
+"2629","Information","TOTAL",42000,2016
+"2630","Financial activities","TOTAL",4314000,2016
+"2631","Financial activities","TOTAL",856000,2016
+"2632","Financial activities","TOTAL",68000,2016
+"2633","Financial activities","TOTAL",332000,2016
+"2634","Financial activities","TOTAL",2238000,2016
+"2635","Financial activities","TOTAL",2179000,2016
+"2636","Financial activities","TOTAL",1000,2016
+"2637","Financial activities","TOTAL",52000,2016
+"2638","Financial activities","TOTAL",205000,2016
+"2639","Financial activities","TOTAL",42000,2016
+"2640","Financial activities","TOTAL",117000,2016
+"2641","Professional and business services","TOTAL",4645000,2016
+"2642","Professional and business services","TOTAL",5939000,2016
+"2643","Professional and business services","TOTAL",579000,2016
+"2644","Professional and business services","TOTAL",2825000,2016
+"2645","Professional and business services","TOTAL",603000,2016
+"2646","Professional and business services","TOTAL",2308000,2016
+"2647","Professional and business services","TOTAL",18000,2016
+"2648","Professional and business services","TOTAL",167000,2016
+"2649","Professional and business services","TOTAL",298000,2016
+"2650","Professional and business services","TOTAL",349000,2016
+"2651","Professional and business services","TOTAL",591000,2016
+"2652","Education and health services","TOTAL",3315000,2016
+"2653","Education and health services","TOTAL",18854000,2016
+"2654","Education and health services","TOTAL",205000,2016
+"2655","Education and health services","TOTAL",7365000,2016
+"2656","Education and health services","TOTAL",121000,2016
+"2657","Education and health services","TOTAL",3547000,2016
+"2658","Education and health services","TOTAL",1000,2016
+"2659","Education and health services","TOTAL",85000,2016
+"2660","Education and health services","TOTAL",211000,2016
+"2661","Education and health services","TOTAL",171000,2016
+"2662","Education and health services","TOTAL",389000,2016
+"2663","Leisure and hospitality","TOTAL",1890000,2016
+"2664","Leisure and hospitality","TOTAL",953000,2016
+"2665","Leisure and hospitality","TOTAL",206000,2016
+"2666","Leisure and hospitality","TOTAL",8750000,2016
+"2667","Leisure and hospitality","TOTAL",1079000,2016
+"2668","Leisure and hospitality","TOTAL",684000,2016
+"2669","Leisure and hospitality","TOTAL",5000,2016
+"2670","Leisure and hospitality","TOTAL",37000,2016
+"2671","Leisure and hospitality","TOTAL",114000,2016
+"2672","Leisure and hospitality","TOTAL",134000,2016
+"2673","Leisure and hospitality","TOTAL",340000,2016
+"2674","Other services","TOTAL",744000,2016
+"2675","Other services","TOTAL",960000,2016
+"2676","Other services","TOTAL",20000,2016
+"2677","Other services","TOTAL",2764000,2016
+"2678","Other services","TOTAL",358000,2016
+"2679","Other services","TOTAL",590000,2016
+"2680","Other services","TOTAL",2000,2016
+"2681","Other services","TOTAL",15000,2016
+"2682","Other services","TOTAL",1103000,2016
+"2683","Other services","TOTAL",441000,2016
+"2684","Other services","TOTAL",324000,2016
+"2685","Other services, except private households","TOTAL",740000,2016
+"2686","Other services, except private households","TOTAL",954000,2016
+"2687","Other services, except private households","TOTAL",20000,2016
+"2688","Other services, except private households","TOTAL",2067000,2016
+"2689","Other services, except private households","TOTAL",357000,2016
+"2690","Other services, except private households","TOTAL",587000,2016
+"2691","Other services, except private households","TOTAL",2000,2016
+"2692","Other services, except private households","TOTAL",14000,2016
+"2693","Other services, except private households","TOTAL",1103000,2016
+"2694","Other services, except private households","TOTAL",440000,2016
+"2695","Other services, except private households","TOTAL",312000,2016
+"2696","Private households","TOTAL",5000,2016
+"2697","Private households","TOTAL",6000,2016
+"2698","Private households","TOTAL",0,2016
+"2699","Private households","TOTAL",697000,2016
+"2700","Private households","TOTAL",0,2016
+"2701","Private households","TOTAL",3000,2016
+"2702","Private households","TOTAL",0,2016
+"2703","Private households","TOTAL",1000,2016
+"2704","Private households","TOTAL",0,2016
+"2705","Private households","TOTAL",1000,2016
+"2706","Private households","TOTAL",12000,2016
+"2707","Public administration","TOTAL",1305000,2016
+"2708","Public administration","TOTAL",1715000,2016
+"2709","Public administration","TOTAL",1879000,2016
+"2710","Public administration","TOTAL",361000,2016
+"2711","Public administration","TOTAL",38000,2016
+"2712","Public administration","TOTAL",1164000,2016
+"2713","Public administration","TOTAL",18000,2016
+"2714","Public administration","TOTAL",88000,2016
+"2715","Public administration","TOTAL",131000,2016
+"2716","Public administration","TOTAL",69000,2016
+"2717","Public administration","TOTAL",89000,2016
+"2718","Agriculture and related","Men",803000,2016
+"2719","Agriculture and related","Men",37000,2016
+"2720","Agriculture and related","Men",13000,2016
+"2721","Agriculture and related","Men",58000,2016
+"2722","Agriculture and related","Men",8000,2016
+"2723","Agriculture and related","Men",14000,2016
+"2724","Agriculture and related","Men",761000,2016
+"2725","Agriculture and related","Men",10000,2016
+"2726","Agriculture and related","Men",37000,2016
+"2727","Agriculture and related","Men",27000,2016
+"2728","Agriculture and related","Men",71000,2016
+"2729","Mining, quarrying, and oil and gas extraction","Men",124000,2016
+"2730","Mining, quarrying, and oil and gas extraction","Men",109000,2016
+"2731","Mining, quarrying, and oil and gas extraction","Men",2000,2016
+"2732","Mining, quarrying, and oil and gas extraction","Men",5000,2016
+"2733","Mining, quarrying, and oil and gas extraction","Men",12000,2016
+"2734","Mining, quarrying, and oil and gas extraction","Men",12000,2016
+"2735","Mining, quarrying, and oil and gas extraction","Men",0,2016
+"2736","Mining, quarrying, and oil and gas extraction","Men",228000,2016
+"2737","Mining, quarrying, and oil and gas extraction","Men",52000,2016
+"2738","Mining, quarrying, and oil and gas extraction","Men",59000,2016
+"2739","Mining, quarrying, and oil and gas extraction","Men",82000,2016
+"2740","Construction","Men",1539000,2016
+"2741","Construction","Men",218000,2016
+"2742","Construction","Men",9000,2016
+"2743","Construction","Men",48000,2016
+"2744","Construction","Men",83000,2016
+"2745","Construction","Men",80000,2016
+"2746","Construction","Men",3000,2016
+"2747","Construction","Men",6469000,2016
+"2748","Construction","Men",551000,2016
+"2749","Construction","Men",147000,2016
+"2750","Construction","Men",244000,2016
+"2751","Manufacturing","Men",1821000,2016
+"2752","Manufacturing","Men",1704000,2016
+"2753","Manufacturing","Men",25000,2016
+"2754","Manufacturing","Men",151000,2016
+"2755","Manufacturing","Men",416000,2016
+"2756","Manufacturing","Men",496000,2016
+"2757","Manufacturing","Men",27000,2016
+"2758","Manufacturing","Men",294000,2016
+"2759","Manufacturing","Men",604000,2016
+"2760","Manufacturing","Men",4389000,2016
+"2761","Manufacturing","Men",1020000,2016
+"2762","Durable goods","Men",1219000,2016
+"2763","Durable goods","Men",1313000,2016
+"2764","Durable goods","Men",14000,2016
+"2765","Durable goods","Men",63000,2016
+"2766","Durable goods","Men",238000,2016
+"2767","Durable goods","Men",292000,2016
+"2768","Durable goods","Men",6000,2016
+"2769","Durable goods","Men",235000,2016
+"2770","Durable goods","Men",389000,2016
+"2771","Durable goods","Men",2956000,2016
+"2772","Durable goods","Men",562000,2016
+"2773","Nondurable goods","Men",602000,2016
+"2774","Nondurable goods","Men",391000,2016
+"2775","Nondurable goods","Men",11000,2016
+"2776","Nondurable goods","Men",88000,2016
+"2777","Nondurable goods","Men",179000,2016
+"2778","Nondurable goods","Men",203000,2016
+"2779","Nondurable goods","Men",22000,2016
+"2780","Nondurable goods","Men",59000,2016
+"2781","Nondurable goods","Men",216000,2016
+"2782","Nondurable goods","Men",1434000,2016
+"2783","Nondurable goods","Men",458000,2016
+"2784","Wholesale and retail trade","Men",895000,2016
+"2785","Wholesale and retail trade","Men",513000,2016
+"2786","Wholesale and retail trade","Men",52000,2016
+"2787","Wholesale and retail trade","Men",330000,2016
+"2788","Wholesale and retail trade","Men",5218000,2016
+"2789","Wholesale and retail trade","Men",1441000,2016
+"2790","Wholesale and retail trade","Men",24000,2016
+"2791","Wholesale and retail trade","Men",83000,2016
+"2792","Wholesale and retail trade","Men",723000,2016
+"2793","Wholesale and retail trade","Men",363000,2016
+"2794","Wholesale and retail trade","Men",1569000,2016
+"2795","Wholesale trade","Men",380000,2016
+"2796","Wholesale trade","Men",116000,2016
+"2797","Wholesale trade","Men",3000,2016
+"2798","Wholesale trade","Men",23000,2016
+"2799","Wholesale trade","Men",990000,2016
+"2800","Wholesale trade","Men",232000,2016
+"2801","Wholesale trade","Men",18000,2016
+"2802","Wholesale trade","Men",21000,2016
+"2803","Wholesale trade","Men",125000,2016
+"2804","Wholesale trade","Men",71000,2016
+"2805","Wholesale trade","Men",589000,2016
+"2806","Retail trade","Men",515000,2016
+"2807","Retail trade","Men",397000,2016
+"2808","Retail trade","Men",48000,2016
+"2809","Retail trade","Men",307000,2016
+"2810","Retail trade","Men",4229000,2016
+"2811","Retail trade","Men",1209000,2016
+"2812","Retail trade","Men",7000,2016
+"2813","Retail trade","Men",63000,2016
+"2814","Retail trade","Men",598000,2016
+"2815","Retail trade","Men",292000,2016
+"2816","Retail trade","Men",980000,2016
+"2817","Transportation and utilities","Men",588000,2016
+"2818","Transportation and utilities","Men",277000,2016
+"2819","Transportation and utilities","Men",20000,2016
+"2820","Transportation and utilities","Men",75000,2016
+"2821","Transportation and utilities","Men",62000,2016
+"2822","Transportation and utilities","Men",864000,2016
+"2823","Transportation and utilities","Men",1000,2016
+"2824","Transportation and utilities","Men",179000,2016
+"2825","Transportation and utilities","Men",506000,2016
+"2826","Transportation and utilities","Men",275000,2016
+"2827","Transportation and utilities","Men",3281000,2016
+"2828","Information","Men",344000,2016
+"2829","Information","Men",687000,2016
+"2830","Information","Men",2000,2016
+"2831","Information","Men",37000,2016
+"2832","Information","Men",199000,2016
+"2833","Information","Men",121000,2016
+"2834","Information","Men",0,2016
+"2835","Information","Men",7000,2016
+"2836","Information","Men",243000,2016
+"2837","Information","Men",27000,2016
+"2838","Information","Men",28000,2016
+"2839","Financial activities","Men",2248000,2016
+"2840","Financial activities","Men",480000,2016
+"2841","Financial activities","Men",37000,2016
+"2842","Financial activities","Men",235000,2016
+"2843","Financial activities","Men",1161000,2016
+"2844","Financial activities","Men",429000,2016
+"2845","Financial activities","Men",0,2016
+"2846","Financial activities","Men",50000,2016
+"2847","Financial activities","Men",197000,2016
+"2848","Financial activities","Men",26000,2016
+"2849","Financial activities","Men",105000,2016
+"2850","Professional and business services","Men",2596000,2016
+"2851","Professional and business services","Men",3826000,2016
+"2852","Professional and business services","Men",452000,2016
+"2853","Professional and business services","Men",1783000,2016
+"2854","Professional and business services","Men",312000,2016
+"2855","Professional and business services","Men",557000,2016
+"2856","Professional and business services","Men",16000,2016
+"2857","Professional and business services","Men",160000,2016
+"2858","Professional and business services","Men",285000,2016
+"2859","Professional and business services","Men",262000,2016
+"2860","Professional and business services","Men",494000,2016
+"2861","Education and health services","Men",1135000,2016
+"2862","Education and health services","Men",5066000,2016
+"2863","Education and health services","Men",132000,2016
+"2864","Education and health services","Men",1388000,2016
+"2865","Education and health services","Men",40000,2016
+"2866","Education and health services","Men",383000,2016
+"2867","Education and health services","Men",0,2016
+"2868","Education and health services","Men",80000,2016
+"2869","Education and health services","Men",191000,2016
+"2870","Education and health services","Men",72000,2016
+"2871","Education and health services","Men",204000,2016
+"2872","Leisure and hospitality","Men",992000,2016
+"2873","Leisure and hospitality","Men",540000,2016
+"2874","Leisure and hospitality","Men",142000,2016
+"2875","Leisure and hospitality","Men",4332000,2016
+"2876","Leisure and hospitality","Men",298000,2016
+"2877","Leisure and hospitality","Men",207000,2016
+"2878","Leisure and hospitality","Men",4000,2016
+"2879","Leisure and hospitality","Men",35000,2016
+"2880","Leisure and hospitality","Men",108000,2016
+"2881","Leisure and hospitality","Men",65000,2016
+"2882","Leisure and hospitality","Men",282000,2016
+"2883","Other services","Men",318000,2016
+"2884","Other services","Men",559000,2016
+"2885","Other services","Men",12000,2016
+"2886","Other services","Men",594000,2016
+"2887","Other services","Men",260000,2016
+"2888","Other services","Men",66000,2016
+"2889","Other services","Men",2000,2016
+"2890","Other services","Men",13000,2016
+"2891","Other services","Men",1077000,2016
+"2892","Other services","Men",304000,2016
+"2893","Other services","Men",294000,2016
+"2894","Other services, except private households","Men",318000,2016
+"2895","Other services, except private households","Men",557000,2016
+"2896","Other services, except private households","Men",12000,2016
+"2897","Other services, except private households","Men",549000,2016
+"2898","Other services, except private households","Men",260000,2016
+"2899","Other services, except private households","Men",65000,2016
+"2900","Other services, except private households","Men",2000,2016
+"2901","Other services, except private households","Men",12000,2016
+"2902","Other services, except private households","Men",1077000,2016
+"2903","Other services, except private households","Men",304000,2016
+"2904","Other services, except private households","Men",282000,2016
+"2905","Private households","Men",0,2016
+"2906","Private households","Men",2000,2016
+"2907","Private households","Men",0,2016
+"2908","Private households","Men",45000,2016
+"2909","Private households","Men",0,2016
+"2910","Private households","Men",1000,2016
+"2911","Private households","Men",0,2016
+"2912","Private households","Men",1000,2016
+"2913","Private households","Men",0,2016
+"2914","Private households","Men",0,2016
+"2915","Private households","Men",11000,2016
+"2916","Public administration","Men",616000,2016
+"2917","Public administration","Men",810000,2016
+"2918","Public administration","Men",1524000,2016
+"2919","Public administration","Men",167000,2016
+"2920","Public administration","Men",19000,2016
+"2921","Public administration","Men",266000,2016
+"2922","Public administration","Men",12000,2016
+"2923","Public administration","Men",85000,2016
+"2924","Public administration","Men",127000,2016
+"2925","Public administration","Men",56000,2016
+"2926","Public administration","Men",78000,2016
+"2927","Agriculture and related","Women",281000,2016
+"2928","Agriculture and related","Women",16000,2016
+"2929","Agriculture and related","Women",1000,2016
+"2930","Agriculture and related","Women",37000,2016
+"2931","Agriculture and related","Women",8000,2016
+"2932","Agriculture and related","Women",74000,2016
+"2933","Agriculture and related","Women",183000,2016
+"2934","Agriculture and related","Women",1000,2016
+"2935","Agriculture and related","Women",0,2016
+"2936","Agriculture and related","Women",8000,2016
+"2937","Agriculture and related","Women",13000,2016
+"2938","Mining, quarrying, and oil and gas extraction","Women",33000,2016
+"2939","Mining, quarrying, and oil and gas extraction","Women",25000,2016
+"2940","Mining, quarrying, and oil and gas extraction","Women",0,2016
+"2941","Mining, quarrying, and oil and gas extraction","Women",2000,2016
+"2942","Mining, quarrying, and oil and gas extraction","Women",1000,2016
+"2943","Mining, quarrying, and oil and gas extraction","Women",37000,2016
+"2944","Mining, quarrying, and oil and gas extraction","Women",0,2016
+"2945","Mining, quarrying, and oil and gas extraction","Women",3000,2016
+"2946","Mining, quarrying, and oil and gas extraction","Women",0,2016
+"2947","Mining, quarrying, and oil and gas extraction","Women",3000,2016
+"2948","Mining, quarrying, and oil and gas extraction","Women",2000,2016
+"2949","Construction","Women",245000,2016
+"2950","Construction","Women",48000,2016
+"2951","Construction","Women",4000,2016
+"2952","Construction","Women",10000,2016
+"2953","Construction","Women",20000,2016
+"2954","Construction","Women",403000,2016
+"2955","Construction","Women",0,2016
+"2956","Construction","Women",188000,2016
+"2957","Construction","Women",8000,2016
+"2958","Construction","Women",5000,2016
+"2959","Construction","Women",8000,2016
+"2960","Manufacturing","Women",852000,2016
+"2961","Manufacturing","Women",483000,2016
+"2962","Manufacturing","Women",4000,2016
+"2963","Manufacturing","Women",82000,2016
+"2964","Manufacturing","Women",223000,2016
+"2965","Manufacturing","Women",8e+05,2016
+"2966","Manufacturing","Women",32000,2016
+"2967","Manufacturing","Women",9000,2016
+"2968","Manufacturing","Women",29000,2016
+"2969","Manufacturing","Women",1708000,2016
+"2970","Manufacturing","Women",237000,2016
+"2971","Durable goods","Women",511000,2016
+"2972","Durable goods","Women",281000,2016
+"2973","Durable goods","Women",2000,2016
+"2974","Durable goods","Women",28000,2016
+"2975","Durable goods","Women",87000,2016
+"2976","Durable goods","Women",497000,2016
+"2977","Durable goods","Women",0,2016
+"2978","Durable goods","Women",5000,2016
+"2979","Durable goods","Women",22000,2016
+"2980","Durable goods","Women",872000,2016
+"2981","Durable goods","Women",112000,2016
+"2982","Nondurable goods","Women",341000,2016
+"2983","Nondurable goods","Women",202000,2016
+"2984","Nondurable goods","Women",2000,2016
+"2985","Nondurable goods","Women",54000,2016
+"2986","Nondurable goods","Women",136000,2016
+"2987","Nondurable goods","Women",303000,2016
+"2988","Nondurable goods","Women",31000,2016
+"2989","Nondurable goods","Women",4000,2016
+"2990","Nondurable goods","Women",7000,2016
+"2991","Nondurable goods","Women",836000,2016
+"2992","Nondurable goods","Women",126000,2016
+"2993","Wholesale and retail trade","Women",670000,2016
+"2994","Wholesale and retail trade","Women",632000,2016
+"2995","Wholesale and retail trade","Women",16000,2016
+"2996","Wholesale and retail trade","Women",371000,2016
+"2997","Wholesale and retail trade","Women",4990000,2016
+"2998","Wholesale and retail trade","Women",1788000,2016
+"2999","Wholesale and retail trade","Women",19000,2016
+"3000","Wholesale and retail trade","Women",6000,2016
+"3001","Wholesale and retail trade","Women",27000,2016
+"3002","Wholesale and retail trade","Women",180000,2016
+"3003","Wholesale and retail trade","Women",308000,2016
+"3004","Wholesale trade","Women",194000,2016
+"3005","Wholesale trade","Women",50000,2016
+"3006","Wholesale trade","Women",0,2016
+"3007","Wholesale trade","Women",16000,2016
+"3008","Wholesale trade","Women",348000,2016
+"3009","Wholesale trade","Women",337000,2016
+"3010","Wholesale trade","Women",16000,2016
+"3011","Wholesale trade","Women",0,2016
+"3012","Wholesale trade","Women",5000,2016
+"3013","Wholesale trade","Women",30000,2016
+"3014","Wholesale trade","Women",77000,2016
+"3015","Retail trade","Women",475000,2016
+"3016","Retail trade","Women",581000,2016
+"3017","Retail trade","Women",16000,2016
+"3018","Retail trade","Women",355000,2016
+"3019","Retail trade","Women",4643000,2016
+"3020","Retail trade","Women",1450000,2016
+"3021","Retail trade","Women",3000,2016
+"3022","Retail trade","Women",5000,2016
+"3023","Retail trade","Women",22000,2016
+"3024","Retail trade","Women",149000,2016
+"3025","Retail trade","Women",231000,2016
+"3026","Transportation and utilities","Women",269000,2016
+"3027","Transportation and utilities","Women",81000,2016
+"3028","Transportation and utilities","Women",8000,2016
+"3029","Transportation and utilities","Women",52000,2016
+"3030","Transportation and utilities","Women",33000,2016
+"3031","Transportation and utilities","Women",810000,2016
+"3032","Transportation and utilities","Women",0,2016
+"3033","Transportation and utilities","Women",8000,2016
+"3034","Transportation and utilities","Women",12000,2016
+"3035","Transportation and utilities","Women",55000,2016
+"3036","Transportation and utilities","Women",557000,2016
+"3037","Information","Women",264000,2016
+"3038","Information","Women",390000,2016
+"3039","Information","Women",3000,2016
+"3040","Information","Women",40000,2016
+"3041","Information","Women",139000,2016
+"3042","Information","Women",279000,2016
+"3043","Information","Women",0,2016
+"3044","Information","Women",2000,2016
+"3045","Information","Women",23000,2016
+"3046","Information","Women",6000,2016
+"3047","Information","Women",14000,2016
+"3048","Financial activities","Women",2066000,2016
+"3049","Financial activities","Women",376000,2016
+"3050","Financial activities","Women",31000,2016
+"3051","Financial activities","Women",98000,2016
+"3052","Financial activities","Women",1077000,2016
+"3053","Financial activities","Women",1750000,2016
+"3054","Financial activities","Women",1000,2016
+"3055","Financial activities","Women",1000,2016
+"3056","Financial activities","Women",8000,2016
+"3057","Financial activities","Women",16000,2016
+"3058","Financial activities","Women",13000,2016
+"3059","Professional and business services","Women",2049000,2016
+"3060","Professional and business services","Women",2113000,2016
+"3061","Professional and business services","Women",127000,2016
+"3062","Professional and business services","Women",1042000,2016
+"3063","Professional and business services","Women",292000,2016
+"3064","Professional and business services","Women",1751000,2016
+"3065","Professional and business services","Women",2000,2016
+"3066","Professional and business services","Women",7000,2016
+"3067","Professional and business services","Women",14000,2016
+"3068","Professional and business services","Women",87000,2016
+"3069","Professional and business services","Women",97000,2016
+"3070","Education and health services","Women",2180000,2016
+"3071","Education and health services","Women",13789000,2016
+"3072","Education and health services","Women",73000,2016
+"3073","Education and health services","Women",5977000,2016
+"3074","Education and health services","Women",81000,2016
+"3075","Education and health services","Women",3164000,2016
+"3076","Education and health services","Women",1000,2016
+"3077","Education and health services","Women",4000,2016
+"3078","Education and health services","Women",20000,2016
+"3079","Education and health services","Women",99000,2016
+"3080","Education and health services","Women",185000,2016
+"3081","Leisure and hospitality","Women",898000,2016
+"3082","Leisure and hospitality","Women",414000,2016
+"3083","Leisure and hospitality","Women",64000,2016
+"3084","Leisure and hospitality","Women",4418000,2016
+"3085","Leisure and hospitality","Women",781000,2016
+"3086","Leisure and hospitality","Women",477000,2016
+"3087","Leisure and hospitality","Women",1000,2016
+"3088","Leisure and hospitality","Women",3000,2016
+"3089","Leisure and hospitality","Women",6000,2016
+"3090","Leisure and hospitality","Women",69000,2016
+"3091","Leisure and hospitality","Women",58000,2016
+"3092","Other services","Women",426000,2016
+"3093","Other services","Women",401000,2016
+"3094","Other services","Women",7000,2016
+"3095","Other services","Women",2170000,2016
+"3096","Other services","Women",98000,2016
+"3097","Other services","Women",524000,2016
+"3098","Other services","Women",0,2016
+"3099","Other services","Women",2000,2016
+"3100","Other services","Women",26000,2016
+"3101","Other services","Women",137000,2016
+"3102","Other services","Women",30000,2016
+"3103","Other services, except private households","Women",422000,2016
+"3104","Other services, except private households","Women",397000,2016
+"3105","Other services, except private households","Women",7000,2016
+"3106","Other services, except private households","Women",1518000,2016
+"3107","Other services, except private households","Women",98000,2016
+"3108","Other services, except private households","Women",522000,2016
+"3109","Other services, except private households","Women",0,2016
+"3110","Other services, except private households","Women",2000,2016
+"3111","Other services, except private households","Women",26000,2016
+"3112","Other services, except private households","Women",136000,2016
+"3113","Other services, except private households","Women",29000,2016
+"3114","Private households","Women",4000,2016
+"3115","Private households","Women",4000,2016
+"3116","Private households","Women",0,2016
+"3117","Private households","Women",652000,2016
+"3118","Private households","Women",0,2016
+"3119","Private households","Women",2000,2016
+"3120","Private households","Women",0,2016
+"3121","Private households","Women",0,2016
+"3122","Private households","Women",0,2016
+"3123","Private households","Women",1000,2016
+"3124","Private households","Women",1000,2016
+"3125","Public administration","Women",689000,2016
+"3126","Public administration","Women",905000,2016
+"3127","Public administration","Women",355000,2016
+"3128","Public administration","Women",195000,2016
+"3129","Public administration","Women",19000,2016
+"3130","Public administration","Women",898000,2016
+"3131","Public administration","Women",6000,2016
+"3132","Public administration","Women",3000,2016
+"3133","Public administration","Women",3000,2016
+"3134","Public administration","Women",13000,2016
+"3135","Public administration","Women",10000,2016
+"3136","Agriculture and related","TOTAL",1085000,2015
+"3137","Agriculture and related","TOTAL",49000,2015
+"3138","Agriculture and related","TOTAL",18000,2015
+"3139","Agriculture and related","TOTAL",91000,2015
+"3140","Agriculture and related","TOTAL",17000,2015
+"3141","Agriculture and related","TOTAL",87000,2015
+"3142","Agriculture and related","TOTAL",903000,2015
+"3143","Agriculture and related","TOTAL",14000,2015
+"3144","Agriculture and related","TOTAL",31000,2015
+"3145","Agriculture and related","TOTAL",30000,2015
+"3146","Agriculture and related","TOTAL",95000,2015
+"3147","Mining, quarrying, and oil and gas extraction","TOTAL",150000,2015
+"3148","Mining, quarrying, and oil and gas extraction","TOTAL",148000,2015
+"3149","Mining, quarrying, and oil and gas extraction","TOTAL",2000,2015
+"3150","Mining, quarrying, and oil and gas extraction","TOTAL",5000,2015
+"3151","Mining, quarrying, and oil and gas extraction","TOTAL",12000,2015
+"3152","Mining, quarrying, and oil and gas extraction","TOTAL",73000,2015
+"3153","Mining, quarrying, and oil and gas extraction","TOTAL",1000,2015
+"3154","Mining, quarrying, and oil and gas extraction","TOTAL",292000,2015
+"3155","Mining, quarrying, and oil and gas extraction","TOTAL",73000,2015
+"3156","Mining, quarrying, and oil and gas extraction","TOTAL",62000,2015
+"3157","Mining, quarrying, and oil and gas extraction","TOTAL",1e+05,2015
+"3158","Construction","TOTAL",1762000,2015
+"3159","Construction","TOTAL",237000,2015
+"3160","Construction","TOTAL",10000,2015
+"3161","Construction","TOTAL",39000,2015
+"3162","Construction","TOTAL",98000,2015
+"3163","Construction","TOTAL",509000,2015
+"3164","Construction","TOTAL",4000,2015
+"3165","Construction","TOTAL",6347000,2015
+"3166","Construction","TOTAL",534000,2015
+"3167","Construction","TOTAL",153000,2015
+"3168","Construction","TOTAL",244000,2015
+"3169","Manufacturing","TOTAL",2619000,2015
+"3170","Manufacturing","TOTAL",2180000,2015
+"3171","Manufacturing","TOTAL",30000,2015
+"3172","Manufacturing","TOTAL",194000,2015
+"3173","Manufacturing","TOTAL",663000,2015
+"3174","Manufacturing","TOTAL",1281000,2015
+"3175","Manufacturing","TOTAL",55000,2015
+"3176","Manufacturing","TOTAL",294000,2015
+"3177","Manufacturing","TOTAL",680000,2015
+"3178","Manufacturing","TOTAL",6072000,2015
+"3179","Manufacturing","TOTAL",1271000,2015
+"3180","Durable goods","TOTAL",1673000,2015
+"3181","Durable goods","TOTAL",1566000,2015
+"3182","Durable goods","TOTAL",16000,2015
+"3183","Durable goods","TOTAL",88000,2015
+"3184","Durable goods","TOTAL",357000,2015
+"3185","Durable goods","TOTAL",777000,2015
+"3186","Durable goods","TOTAL",4000,2015
+"3187","Durable goods","TOTAL",239000,2015
+"3188","Durable goods","TOTAL",436000,2015
+"3189","Durable goods","TOTAL",3854000,2015
+"3190","Durable goods","TOTAL",698000,2015
+"3191","Nondurable goods","TOTAL",946000,2015
+"3192","Nondurable goods","TOTAL",614000,2015
+"3193","Nondurable goods","TOTAL",14000,2015
+"3194","Nondurable goods","TOTAL",105000,2015
+"3195","Nondurable goods","TOTAL",306000,2015
+"3196","Nondurable goods","TOTAL",504000,2015
+"3197","Nondurable goods","TOTAL",51000,2015
+"3198","Nondurable goods","TOTAL",55000,2015
+"3199","Nondurable goods","TOTAL",244000,2015
+"3200","Nondurable goods","TOTAL",2218000,2015
+"3201","Nondurable goods","TOTAL",573000,2015
+"3202","Wholesale and retail trade","TOTAL",1445000,2015
+"3203","Wholesale and retail trade","TOTAL",1107000,2015
+"3204","Wholesale and retail trade","TOTAL",77000,2015
+"3205","Wholesale and retail trade","TOTAL",694000,2015
+"3206","Wholesale and retail trade","TOTAL",10176000,2015
+"3207","Wholesale and retail trade","TOTAL",3320000,2015
+"3208","Wholesale and retail trade","TOTAL",63000,2015
+"3209","Wholesale and retail trade","TOTAL",106000,2015
+"3210","Wholesale and retail trade","TOTAL",771000,2015
+"3211","Wholesale and retail trade","TOTAL",624000,2015
+"3212","Wholesale and retail trade","TOTAL",1936000,2015
+"3213","Wholesale trade","TOTAL",531000,2015
+"3214","Wholesale trade","TOTAL",168000,2015
+"3215","Wholesale trade","TOTAL",6000,2015
+"3216","Wholesale trade","TOTAL",44000,2015
+"3217","Wholesale trade","TOTAL",1304000,2015
+"3218","Wholesale trade","TOTAL",591000,2015
+"3219","Wholesale trade","TOTAL",52000,2015
+"3220","Wholesale trade","TOTAL",30000,2015
+"3221","Wholesale trade","TOTAL",129000,2015
+"3222","Wholesale trade","TOTAL",108000,2015
+"3223","Wholesale trade","TOTAL",672000,2015
+"3224","Retail trade","TOTAL",913000,2015
+"3225","Retail trade","TOTAL",939000,2015
+"3226","Retail trade","TOTAL",72000,2015
+"3227","Retail trade","TOTAL",651000,2015
+"3228","Retail trade","TOTAL",8872000,2015
+"3229","Retail trade","TOTAL",2729000,2015
+"3230","Retail trade","TOTAL",11000,2015
+"3231","Retail trade","TOTAL",77000,2015
+"3232","Retail trade","TOTAL",641000,2015
+"3233","Retail trade","TOTAL",516000,2015
+"3234","Retail trade","TOTAL",1264000,2015
+"3235","Transportation and utilities","TOTAL",790000,2015
+"3236","Transportation and utilities","TOTAL",363000,2015
+"3237","Transportation and utilities","TOTAL",35000,2015
+"3238","Transportation and utilities","TOTAL",124000,2015
+"3239","Transportation and utilities","TOTAL",105000,2015
+"3240","Transportation and utilities","TOTAL",1648000,2015
+"3241","Transportation and utilities","TOTAL",5000,2015
+"3242","Transportation and utilities","TOTAL",163000,2015
+"3243","Transportation and utilities","TOTAL",498000,2015
+"3244","Transportation and utilities","TOTAL",322000,2015
+"3245","Transportation and utilities","TOTAL",3673000,2015
+"3246","Information","TOTAL",619000,2015
+"3247","Information","TOTAL",1124000,2015
+"3248","Information","TOTAL",13000,2015
+"3249","Information","TOTAL",75000,2015
+"3250","Information","TOTAL",329000,2015
+"3251","Information","TOTAL",442000,2015
+"3252","Information","TOTAL",0,2015
+"3253","Information","TOTAL",5000,2015
+"3254","Information","TOTAL",296000,2015
+"3255","Information","TOTAL",46000,2015
+"3256","Information","TOTAL",39000,2015
+"3257","Financial activities","TOTAL",4153000,2015
+"3258","Financial activities","TOTAL",825000,2015
+"3259","Financial activities","TOTAL",52000,2015
+"3260","Financial activities","TOTAL",315000,2015
+"3261","Financial activities","TOTAL",2172000,2015
+"3262","Financial activities","TOTAL",2171000,2015
+"3263","Financial activities","TOTAL",1000,2015
+"3264","Financial activities","TOTAL",34000,2015
+"3265","Financial activities","TOTAL",220000,2015
+"3266","Financial activities","TOTAL",35000,2015
+"3267","Financial activities","TOTAL",108000,2015
+"3268","Professional and business services","TOTAL",4344000,2015
+"3269","Professional and business services","TOTAL",5552000,2015
+"3270","Professional and business services","TOTAL",533000,2015
+"3271","Professional and business services","TOTAL",2694000,2015
+"3272","Professional and business services","TOTAL",603000,2015
+"3273","Professional and business services","TOTAL",2255000,2015
+"3274","Professional and business services","TOTAL",12000,2015
+"3275","Professional and business services","TOTAL",161000,2015
+"3276","Professional and business services","TOTAL",292000,2015
+"3277","Professional and business services","TOTAL",377000,2015
+"3278","Professional and business services","TOTAL",585000,2015
+"3279","Education and health services","TOTAL",3260000,2015
+"3280","Education and health services","TOTAL",18654000,2015
+"3281","Education and health services","TOTAL",192000,2015
+"3282","Education and health services","TOTAL",7018000,2015
+"3283","Education and health services","TOTAL",117000,2015
+"3284","Education and health services","TOTAL",3561000,2015
+"3285","Education and health services","TOTAL",1000,2015
+"3286","Education and health services","TOTAL",90000,2015
+"3287","Education and health services","TOTAL",232000,2015
+"3288","Education and health services","TOTAL",172000,2015
+"3289","Education and health services","TOTAL",383000,2015
+"3290","Leisure and hospitality","TOTAL",1931000,2015
+"3291","Leisure and hospitality","TOTAL",907000,2015
+"3292","Leisure and hospitality","TOTAL",182000,2015
+"3293","Leisure and hospitality","TOTAL",8486000,2015
+"3294","Leisure and hospitality","TOTAL",1015000,2015
+"3295","Leisure and hospitality","TOTAL",702000,2015
+"3296","Leisure and hospitality","TOTAL",3000,2015
+"3297","Leisure and hospitality","TOTAL",38000,2015
+"3298","Leisure and hospitality","TOTAL",112000,2015
+"3299","Leisure and hospitality","TOTAL",146000,2015
+"3300","Leisure and hospitality","TOTAL",299000,2015
+"3301","Other services","TOTAL",651000,2015
+"3302","Other services","TOTAL",998000,2015
+"3303","Other services","TOTAL",15000,2015
+"3304","Other services","TOTAL",2695000,2015
+"3305","Other services","TOTAL",366000,2015
+"3306","Other services","TOTAL",633000,2015
+"3307","Other services","TOTAL",4000,2015
+"3308","Other services","TOTAL",25000,2015
+"3309","Other services","TOTAL",1148000,2015
+"3310","Other services","TOTAL",425000,2015
+"3311","Other services","TOTAL",306000,2015
+"3312","Other services, except private households","TOTAL",644000,2015
+"3313","Other services, except private households","TOTAL",994000,2015
+"3314","Other services, except private households","TOTAL",15000,2015
+"3315","Other services, except private households","TOTAL",1925000,2015
+"3316","Other services, except private households","TOTAL",366000,2015
+"3317","Other services, except private households","TOTAL",628000,2015
+"3318","Other services, except private households","TOTAL",4000,2015
+"3319","Other services, except private households","TOTAL",24000,2015
+"3320","Other services, except private households","TOTAL",1147000,2015
+"3321","Other services, except private households","TOTAL",423000,2015
+"3322","Other services, except private households","TOTAL",296000,2015
+"3323","Private households","TOTAL",7000,2015
+"3324","Private households","TOTAL",4000,2015
+"3325","Private households","TOTAL",0,2015
+"3326","Private households","TOTAL",770000,2015
+"3327","Private households","TOTAL",0,2015
+"3328","Private households","TOTAL",4000,2015
+"3329","Private households","TOTAL",0,2015
+"3330","Private households","TOTAL",1000,2015
+"3331","Private households","TOTAL",1000,2015
+"3332","Private households","TOTAL",1000,2015
+"3333","Private households","TOTAL",10000,2015
+"3334","Public administration","TOTAL",1300000,2015
+"3335","Public administration","TOTAL",1708000,2015
+"3336","Public administration","TOTAL",1949000,2015
+"3337","Public administration","TOTAL",356000,2015
+"3338","Public administration","TOTAL",27000,2015
+"3339","Public administration","TOTAL",1216000,2015
+"3340","Public administration","TOTAL",21000,2015
+"3341","Public administration","TOTAL",82000,2015
+"3342","Public administration","TOTAL",123000,2015
+"3343","Public administration","TOTAL",57000,2015
+"3344","Public administration","TOTAL",87000,2015
+"3345","Agriculture and related","Men",824000,2015
+"3346","Agriculture and related","Men",34000,2015
+"3347","Agriculture and related","Men",16000,2015
+"3348","Agriculture and related","Men",58000,2015
+"3349","Agriculture and related","Men",8000,2015
+"3350","Agriculture and related","Men",11000,2015
+"3351","Agriculture and related","Men",719000,2015
+"3352","Agriculture and related","Men",14000,2015
+"3353","Agriculture and related","Men",31000,2015
+"3354","Agriculture and related","Men",24000,2015
+"3355","Agriculture and related","Men",86000,2015
+"3356","Mining, quarrying, and oil and gas extraction","Men",108000,2015
+"3357","Mining, quarrying, and oil and gas extraction","Men",130000,2015
+"3358","Mining, quarrying, and oil and gas extraction","Men",2000,2015
+"3359","Mining, quarrying, and oil and gas extraction","Men",4000,2015
+"3360","Mining, quarrying, and oil and gas extraction","Men",12000,2015
+"3361","Mining, quarrying, and oil and gas extraction","Men",27000,2015
+"3362","Mining, quarrying, and oil and gas extraction","Men",1000,2015
+"3363","Mining, quarrying, and oil and gas extraction","Men",284000,2015
+"3364","Mining, quarrying, and oil and gas extraction","Men",72000,2015
+"3365","Mining, quarrying, and oil and gas extraction","Men",60000,2015
+"3366","Mining, quarrying, and oil and gas extraction","Men",98000,2015
+"3367","Construction","Men",1517000,2015
+"3368","Construction","Men",199000,2015
+"3369","Construction","Men",7000,2015
+"3370","Construction","Men",33000,2015
+"3371","Construction","Men",71000,2015
+"3372","Construction","Men",76000,2015
+"3373","Construction","Men",4000,2015
+"3374","Construction","Men",6191000,2015
+"3375","Construction","Men",524000,2015
+"3376","Construction","Men",149000,2015
+"3377","Construction","Men",235000,2015
+"3378","Manufacturing","Men",1777000,2015
+"3379","Manufacturing","Men",1674000,2015
+"3380","Manufacturing","Men",22000,2015
+"3381","Manufacturing","Men",121000,2015
+"3382","Manufacturing","Men",438000,2015
+"3383","Manufacturing","Men",483000,2015
+"3384","Manufacturing","Men",27000,2015
+"3385","Manufacturing","Men",282000,2015
+"3386","Manufacturing","Men",650000,2015
+"3387","Manufacturing","Men",4353000,2015
+"3388","Manufacturing","Men",1055000,2015
+"3389","Durable goods","Men",1180000,2015
+"3390","Durable goods","Men",1294000,2015
+"3391","Durable goods","Men",12000,2015
+"3392","Durable goods","Men",63000,2015
+"3393","Durable goods","Men",270000,2015
+"3394","Durable goods","Men",298000,2015
+"3395","Durable goods","Men",4000,2015
+"3396","Durable goods","Men",231000,2015
+"3397","Durable goods","Men",419000,2015
+"3398","Durable goods","Men",2961000,2015
+"3399","Durable goods","Men",593000,2015
+"3400","Nondurable goods","Men",597000,2015
+"3401","Nondurable goods","Men",379000,2015
+"3402","Nondurable goods","Men",10000,2015
+"3403","Nondurable goods","Men",58000,2015
+"3404","Nondurable goods","Men",167000,2015
+"3405","Nondurable goods","Men",185000,2015
+"3406","Nondurable goods","Men",22000,2015
+"3407","Nondurable goods","Men",51000,2015
+"3408","Nondurable goods","Men",231000,2015
+"3409","Nondurable goods","Men",1392000,2015
+"3410","Nondurable goods","Men",462000,2015
+"3411","Wholesale and retail trade","Men",837000,2015
+"3412","Wholesale and retail trade","Men",505000,2015
+"3413","Wholesale and retail trade","Men",51000,2015
+"3414","Wholesale and retail trade","Men",297000,2015
+"3415","Wholesale and retail trade","Men",5171000,2015
+"3416","Wholesale and retail trade","Men",1477000,2015
+"3417","Wholesale and retail trade","Men",32000,2015
+"3418","Wholesale and retail trade","Men",103000,2015
+"3419","Wholesale and retail trade","Men",744000,2015
+"3420","Wholesale and retail trade","Men",380000,2015
+"3421","Wholesale and retail trade","Men",1626000,2015
+"3422","Wholesale trade","Men",335000,2015
+"3423","Wholesale trade","Men",120000,2015
+"3424","Wholesale trade","Men",5000,2015
+"3425","Wholesale trade","Men",30000,2015
+"3426","Wholesale trade","Men",972000,2015
+"3427","Wholesale trade","Men",251000,2015
+"3428","Wholesale trade","Men",26000,2015
+"3429","Wholesale trade","Men",28000,2015
+"3430","Wholesale trade","Men",128000,2015
+"3431","Wholesale trade","Men",71000,2015
+"3432","Wholesale trade","Men",599000,2015
+"3433","Retail trade","Men",502000,2015
+"3434","Retail trade","Men",385000,2015
+"3435","Retail trade","Men",47000,2015
+"3436","Retail trade","Men",267000,2015
+"3437","Retail trade","Men",4200000,2015
+"3438","Retail trade","Men",1225000,2015
+"3439","Retail trade","Men",6000,2015
+"3440","Retail trade","Men",74000,2015
+"3441","Retail trade","Men",616000,2015
+"3442","Retail trade","Men",309000,2015
+"3443","Retail trade","Men",1027000,2015
+"3444","Transportation and utilities","Men",546000,2015
+"3445","Transportation and utilities","Men",277000,2015
+"3446","Transportation and utilities","Men",22000,2015
+"3447","Transportation and utilities","Men",77000,2015
+"3448","Transportation and utilities","Men",68000,2015
+"3449","Transportation and utilities","Men",853000,2015
+"3450","Transportation and utilities","Men",4000,2015
+"3451","Transportation and utilities","Men",160000,2015
+"3452","Transportation and utilities","Men",488000,2015
+"3453","Transportation and utilities","Men",290000,2015
+"3454","Transportation and utilities","Men",3193000,2015
+"3455","Information","Men",360000,2015
+"3456","Information","Men",739000,2015
+"3457","Information","Men",11000,2015
+"3458","Information","Men",38000,2015
+"3459","Information","Men",186000,2015
+"3460","Information","Men",141000,2015
+"3461","Information","Men",0,2015
+"3462","Information","Men",5000,2015
+"3463","Information","Men",280000,2015
+"3464","Information","Men",31000,2015
+"3465","Information","Men",25000,2015
+"3466","Financial activities","Men",2157000,2015
+"3467","Financial activities","Men",469000,2015
+"3468","Financial activities","Men",26000,2015
+"3469","Financial activities","Men",219000,2015
+"3470","Financial activities","Men",1084000,2015
+"3471","Financial activities","Men",422000,2015
+"3472","Financial activities","Men",1000,2015
+"3473","Financial activities","Men",31000,2015
+"3474","Financial activities","Men",209000,2015
+"3475","Financial activities","Men",24000,2015
+"3476","Financial activities","Men",99000,2015
+"3477","Professional and business services","Men",2464000,2015
+"3478","Professional and business services","Men",3587000,2015
+"3479","Professional and business services","Men",423000,2015
+"3480","Professional and business services","Men",1723000,2015
+"3481","Professional and business services","Men",320000,2015
+"3482","Professional and business services","Men",537000,2015
+"3483","Professional and business services","Men",7000,2015
+"3484","Professional and business services","Men",153000,2015
+"3485","Professional and business services","Men",277000,2015
+"3486","Professional and business services","Men",277000,2015
+"3487","Professional and business services","Men",492000,2015
+"3488","Education and health services","Men",1071000,2015
+"3489","Education and health services","Men",4972000,2015
+"3490","Education and health services","Men",128000,2015
+"3491","Education and health services","Men",1371000,2015
+"3492","Education and health services","Men",29000,2015
+"3493","Education and health services","Men",397000,2015
+"3494","Education and health services","Men",0,2015
+"3495","Education and health services","Men",82000,2015
+"3496","Education and health services","Men",216000,2015
+"3497","Education and health services","Men",72000,2015
+"3498","Education and health services","Men",214000,2015
+"3499","Leisure and hospitality","Men",1030000,2015
+"3500","Leisure and hospitality","Men",505000,2015
+"3501","Leisure and hospitality","Men",125000,2015
+"3502","Leisure and hospitality","Men",4127000,2015
+"3503","Leisure and hospitality","Men",291000,2015
+"3504","Leisure and hospitality","Men",201000,2015
+"3505","Leisure and hospitality","Men",3000,2015
+"3506","Leisure and hospitality","Men",37000,2015
+"3507","Leisure and hospitality","Men",107000,2015
+"3508","Leisure and hospitality","Men",73000,2015
+"3509","Leisure and hospitality","Men",256000,2015
+"3510","Other services","Men",285000,2015
+"3511","Other services","Men",589000,2015
+"3512","Other services","Men",11000,2015
+"3513","Other services","Men",538000,2015
+"3514","Other services","Men",269000,2015
+"3515","Other services","Men",96000,2015
+"3516","Other services","Men",2000,2015
+"3517","Other services","Men",25000,2015
+"3518","Other services","Men",1119000,2015
+"3519","Other services","Men",286000,2015
+"3520","Other services","Men",281000,2015
+"3521","Other services, except private households","Men",282000,2015
+"3522","Other services, except private households","Men",589000,2015
+"3523","Other services, except private households","Men",11000,2015
+"3524","Other services, except private households","Men",494000,2015
+"3525","Other services, except private households","Men",268000,2015
+"3526","Other services, except private households","Men",96000,2015
+"3527","Other services, except private households","Men",2000,2015
+"3528","Other services, except private households","Men",24000,2015
+"3529","Other services, except private households","Men",1119000,2015
+"3530","Other services, except private households","Men",286000,2015
+"3531","Other services, except private households","Men",271000,2015
+"3532","Private households","Men",3000,2015
+"3533","Private households","Men",0,2015
+"3534","Private households","Men",0,2015
+"3535","Private households","Men",44000,2015
+"3536","Private households","Men",0,2015
+"3537","Private households","Men",0,2015
+"3538","Private households","Men",0,2015
+"3539","Private households","Men",1000,2015
+"3540","Private households","Men",1000,2015
+"3541","Private households","Men",0,2015
+"3542","Private households","Men",9000,2015
+"3543","Public administration","Men",612000,2015
+"3544","Public administration","Men",821000,2015
+"3545","Public administration","Men",1600000,2015
+"3546","Public administration","Men",156000,2015
+"3547","Public administration","Men",14000,2015
+"3548","Public administration","Men",259000,2015
+"3549","Public administration","Men",14000,2015
+"3550","Public administration","Men",77000,2015
+"3551","Public administration","Men",116000,2015
+"3552","Public administration","Men",51000,2015
+"3553","Public administration","Men",72000,2015
+"3554","Agriculture and related","Women",261000,2015
+"3555","Agriculture and related","Women",16000,2015
+"3556","Agriculture and related","Women",2000,2015
+"3557","Agriculture and related","Women",33000,2015
+"3558","Agriculture and related","Women",9000,2015
+"3559","Agriculture and related","Women",76000,2015
+"3560","Agriculture and related","Women",184000,2015
+"3561","Agriculture and related","Women",0,2015
+"3562","Agriculture and related","Women",0,2015
+"3563","Agriculture and related","Women",6000,2015
+"3564","Agriculture and related","Women",9000,2015
+"3565","Mining, quarrying, and oil and gas extraction","Women",42000,2015
+"3566","Mining, quarrying, and oil and gas extraction","Women",18000,2015
+"3567","Mining, quarrying, and oil and gas extraction","Women",0,2015
+"3568","Mining, quarrying, and oil and gas extraction","Women",1000,2015
+"3569","Mining, quarrying, and oil and gas extraction","Women",1000,2015
+"3570","Mining, quarrying, and oil and gas extraction","Women",45000,2015
+"3571","Mining, quarrying, and oil and gas extraction","Women",0,2015
+"3572","Mining, quarrying, and oil and gas extraction","Women",8000,2015
+"3573","Mining, quarrying, and oil and gas extraction","Women",1000,2015
+"3574","Mining, quarrying, and oil and gas extraction","Women",1000,2015
+"3575","Mining, quarrying, and oil and gas extraction","Women",2000,2015
+"3576","Construction","Women",244000,2015
+"3577","Construction","Women",38000,2015
+"3578","Construction","Women",3000,2015
+"3579","Construction","Women",6000,2015
+"3580","Construction","Women",27000,2015
+"3581","Construction","Women",433000,2015
+"3582","Construction","Women",0,2015
+"3583","Construction","Women",155000,2015
+"3584","Construction","Women",10000,2015
+"3585","Construction","Women",4000,2015
+"3586","Construction","Women",9000,2015
+"3587","Manufacturing","Women",842000,2015
+"3588","Manufacturing","Women",506000,2015
+"3589","Manufacturing","Women",8000,2015
+"3590","Manufacturing","Women",72000,2015
+"3591","Manufacturing","Women",225000,2015
+"3592","Manufacturing","Women",798000,2015
+"3593","Manufacturing","Women",28000,2015
+"3594","Manufacturing","Women",12000,2015
+"3595","Manufacturing","Women",30000,2015
+"3596","Manufacturing","Women",1719000,2015
+"3597","Manufacturing","Women",216000,2015
+"3598","Durable goods","Women",494000,2015
+"3599","Durable goods","Women",271000,2015
+"3600","Durable goods","Women",4000,2015
+"3601","Durable goods","Women",25000,2015
+"3602","Durable goods","Women",87000,2015
+"3603","Durable goods","Women",479000,2015
+"3604","Durable goods","Women",0,2015
+"3605","Durable goods","Women",8000,2015
+"3606","Durable goods","Women",17000,2015
+"3607","Durable goods","Women",893000,2015
+"3608","Durable goods","Women",105000,2015
+"3609","Nondurable goods","Women",349000,2015
+"3610","Nondurable goods","Women",235000,2015
+"3611","Nondurable goods","Women",3000,2015
+"3612","Nondurable goods","Women",47000,2015
+"3613","Nondurable goods","Women",138000,2015
+"3614","Nondurable goods","Women",319000,2015
+"3615","Nondurable goods","Women",28000,2015
+"3616","Nondurable goods","Women",4000,2015
+"3617","Nondurable goods","Women",12000,2015
+"3618","Nondurable goods","Women",826000,2015
+"3619","Nondurable goods","Women",110000,2015
+"3620","Wholesale and retail trade","Women",607000,2015
+"3621","Wholesale and retail trade","Women",602000,2015
+"3622","Wholesale and retail trade","Women",26000,2015
+"3623","Wholesale and retail trade","Women",398000,2015
+"3624","Wholesale and retail trade","Women",5005000,2015
+"3625","Wholesale and retail trade","Women",1843000,2015
+"3626","Wholesale and retail trade","Women",31000,2015
+"3627","Wholesale and retail trade","Women",3000,2015
+"3628","Wholesale and retail trade","Women",27000,2015
+"3629","Wholesale and retail trade","Women",245000,2015
+"3630","Wholesale and retail trade","Women",311000,2015
+"3631","Wholesale trade","Women",196000,2015
+"3632","Wholesale trade","Women",48000,2015
+"3633","Wholesale trade","Women",1000,2015
+"3634","Wholesale trade","Women",14000,2015
+"3635","Wholesale trade","Women",332000,2015
+"3636","Wholesale trade","Women",340000,2015
+"3637","Wholesale trade","Women",26000,2015
+"3638","Wholesale trade","Women",1000,2015
+"3639","Wholesale trade","Women",2000,2015
+"3640","Wholesale trade","Women",38000,2015
+"3641","Wholesale trade","Women",73000,2015
+"3642","Retail trade","Women",411000,2015
+"3643","Retail trade","Women",554000,2015
+"3644","Retail trade","Women",25000,2015
+"3645","Retail trade","Women",383000,2015
+"3646","Retail trade","Women",4673000,2015
+"3647","Retail trade","Women",1503000,2015
+"3648","Retail trade","Women",5000,2015
+"3649","Retail trade","Women",2000,2015
+"3650","Retail trade","Women",25000,2015
+"3651","Retail trade","Women",207000,2015
+"3652","Retail trade","Women",238000,2015
+"3653","Transportation and utilities","Women",243000,2015
+"3654","Transportation and utilities","Women",87000,2015
+"3655","Transportation and utilities","Women",13000,2015
+"3656","Transportation and utilities","Women",47000,2015
+"3657","Transportation and utilities","Women",37000,2015
+"3658","Transportation and utilities","Women",795000,2015
+"3659","Transportation and utilities","Women",1000,2015
+"3660","Transportation and utilities","Women",3000,2015
+"3661","Transportation and utilities","Women",10000,2015
+"3662","Transportation and utilities","Women",33000,2015
+"3663","Transportation and utilities","Women",481000,2015
+"3664","Information","Women",259000,2015
+"3665","Information","Women",385000,2015
+"3666","Information","Women",2000,2015
+"3667","Information","Women",37000,2015
+"3668","Information","Women",143000,2015
+"3669","Information","Women",301000,2015
+"3670","Information","Women",0,2015
+"3671","Information","Women",0,2015
+"3672","Information","Women",16000,2015
+"3673","Information","Women",14000,2015
+"3674","Information","Women",14000,2015
+"3675","Financial activities","Women",1996000,2015
+"3676","Financial activities","Women",356000,2015
+"3677","Financial activities","Women",26000,2015
+"3678","Financial activities","Women",96000,2015
+"3679","Financial activities","Women",1088000,2015
+"3680","Financial activities","Women",1750000,2015
+"3681","Financial activities","Women",0,2015
+"3682","Financial activities","Women",3000,2015
+"3683","Financial activities","Women",10000,2015
+"3684","Financial activities","Women",11000,2015
+"3685","Financial activities","Women",9000,2015
+"3686","Professional and business services","Women",1880000,2015
+"3687","Professional and business services","Women",1966000,2015
+"3688","Professional and business services","Women",110000,2015
+"3689","Professional and business services","Women",972000,2015
+"3690","Professional and business services","Women",283000,2015
+"3691","Professional and business services","Women",1717000,2015
+"3692","Professional and business services","Women",5000,2015
+"3693","Professional and business services","Women",9000,2015
+"3694","Professional and business services","Women",15000,2015
+"3695","Professional and business services","Women",101000,2015
+"3696","Professional and business services","Women",93000,2015
+"3697","Education and health services","Women",2188000,2015
+"3698","Education and health services","Women",13682000,2015
+"3699","Education and health services","Women",64000,2015
+"3700","Education and health services","Women",5646000,2015
+"3701","Education and health services","Women",88000,2015
+"3702","Education and health services","Women",3164000,2015
+"3703","Education and health services","Women",1000,2015
+"3704","Education and health services","Women",7000,2015
+"3705","Education and health services","Women",16000,2015
+"3706","Education and health services","Women",1e+05,2015
+"3707","Education and health services","Women",168000,2015
+"3708","Leisure and hospitality","Women",901000,2015
+"3709","Leisure and hospitality","Women",402000,2015
+"3710","Leisure and hospitality","Women",56000,2015
+"3711","Leisure and hospitality","Women",4359000,2015
+"3712","Leisure and hospitality","Women",724000,2015
+"3713","Leisure and hospitality","Women",501000,2015
+"3714","Leisure and hospitality","Women",1000,2015
+"3715","Leisure and hospitality","Women",1000,2015
+"3716","Leisure and hospitality","Women",5000,2015
+"3717","Leisure and hospitality","Women",73000,2015
+"3718","Leisure and hospitality","Women",43000,2015
+"3719","Other services","Women",366000,2015
+"3720","Other services","Women",409000,2015
+"3721","Other services","Women",4000,2015
+"3722","Other services","Women",2157000,2015
+"3723","Other services","Women",97000,2015
+"3724","Other services","Women",537000,2015
+"3725","Other services","Women",1000,2015
+"3726","Other services","Women",0,2015
+"3727","Other services","Women",29000,2015
+"3728","Other services","Women",139000,2015
+"3729","Other services","Women",25000,2015
+"3730","Other services, except private households","Women",362000,2015
+"3731","Other services, except private households","Women",405000,2015
+"3732","Other services, except private households","Women",4000,2015
+"3733","Other services, except private households","Women",1431000,2015
+"3734","Other services, except private households","Women",97000,2015
+"3735","Other services, except private households","Women",532000,2015
+"3736","Other services, except private households","Women",1000,2015
+"3737","Other services, except private households","Women",0,2015
+"3738","Other services, except private households","Women",28000,2015
+"3739","Other services, except private households","Women",138000,2015
+"3740","Other services, except private households","Women",25000,2015
+"3741","Private households","Women",4000,2015
+"3742","Private households","Women",4000,2015
+"3743","Private households","Women",0,2015
+"3744","Private households","Women",726000,2015
+"3745","Private households","Women",0,2015
+"3746","Private households","Women",4000,2015
+"3747","Private households","Women",0,2015
+"3748","Private households","Women",0,2015
+"3749","Private households","Women",0,2015
+"3750","Private households","Women",1000,2015
+"3751","Private households","Women",0,2015
+"3752","Public administration","Women",689000,2015
+"3753","Public administration","Women",886000,2015
+"3754","Public administration","Women",349000,2015
+"3755","Public administration","Women",2e+05,2015
+"3756","Public administration","Women",13000,2015
+"3757","Public administration","Women",957000,2015
+"3758","Public administration","Women",7000,2015
+"3759","Public administration","Women",6000,2015
+"3760","Public administration","Women",8000,2015
+"3761","Public administration","Women",6000,2015
+"3762","Public administration","Women",15000,2015
